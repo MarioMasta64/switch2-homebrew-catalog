@@ -9,8 +9,8 @@ file	516376	d9457fe53d4b32456a20d6d418c9bf5300acaa3418e860175cc8f9db7199cbb3	lau
 github	https://github.com/byizmysh/BlitBun/releases/download/v1.15.8/blitbun-1.15.8.iza
 app	iz2s-store	iza	0.8.0	IZ2S Store	IZMYSH	Tools	Browse and install Switch 2 homebrew.
 repository	https://github.com/byizmysh/iz2s-store
-file	821884	84e2611f9442b788e80bd7ec7c68131e57187a1453128e4e367ffe612d8a7d67	launcher.iza
-file	94296	5e0d4ecc213dd4ddf581b2744975e27609508291dbe3a4b9dc0b45cd49789f9b	asset-5e0d4ecc213dd4ddf581b2744975e27609508291dbe3a4b9dc0b45cd49789f9b.izdata
+file	821884	1ce51fd97f907a5aeb57955e6d8adacb7df92c8b1888d96dda2468deea6b0884	launcher.iza
+file	94304	f6fb3c78b9bf74fb281e35f114f5353e0ad664b44e8a076933fd9f27660118d7	asset-f6fb3c78b9bf74fb281e35f114f5353e0ad664b44e8a076933fd9f27660118d7.izdata
 github	https://github.com/byizmysh/iz2s-store/releases/download/v0.8.0/iz2s-store.iza
 app	kaiplayer	nro	0.9.0-beta	KaiPlayer	mizuiroame	Media	Listen to music stored on your SD card with a native audio player made for Switch 2.
 repository	https://github.com/mizuiroame/kaiplayer
@@ -96,3 +96,8 @@ app	bad-apple	nro	bad_apple_ounce	Bad Apple!	souldbminerr	Media	Bad Apple audiov
 repository	https://github.com/souldbminerr/bad-apple-switch
 file	59259489	8f097312ab4ebe073aa70edf6830a085255e8880bfa351befedb01321e6f9c02	launcher.nro
 github	https://github.com/souldbminerr/bad-apple-switch/releases/download/bad_apple_ounce/bad-apple-switch.nro
+app	izpsx	iza	0.5.2	IZPSX	IZMYSH	Emulators	Play your PlayStation games on Switch 2. Requires IZ2S and your own BIOS and game files.
+repository	https://github.com/byizmysh/IZPSX-emulator
+file	160696	bc3054dc595fa9d99eba9badd2304f8a1536636b42acd7b70b428fdc97b3f0d0	launcher.iza
+file	1746048	b87343c59604a1ffc497ec852e7fc80beb65cf92b6e208124528a4a39b6fb8db	asset-b87343c59604a1ffc497ec852e7fc80beb65cf92b6e208124528a4a39b6fb8db.izdata
+github	https://github.com/byizmysh/IZPSX-emulator/releases/download/v0.5.2/launcher.iza
