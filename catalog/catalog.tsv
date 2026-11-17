@@ -7,12 +7,11 @@ app	blitbun	iza	1.15.8	BlitBun	IZMYSH	Tools	Stream PC video and audio to Switch 
 repository	https://github.com/byizmysh/BlitBun
 file	516376	d9457fe53d4b32456a20d6d418c9bf5300acaa3418e860175cc8f9db7199cbb3	launcher.iza
 github	https://github.com/byizmysh/BlitBun/releases/download/v1.15.8/blitbun-1.15.8.iza
-app	iz2s-store	iza	0.8.0	IZ2S Store	IZMYSH	Tools	Browse and install Switch 2 homebrew.
-repository	https://github.com/byizmysh/iz2s-store
-file	821884	c36812ceb94ba2b015a3652c9e9ae839041ce332fa0ebbf1bfcb5236e0c79bf9	launcher.iza
-file	95064	8f503b70163c3fdc9d988f327a621e3771ec0f83e50e746b9006d135fe087831	asset-8f503b70163c3fdc9d988f327a621e3771ec0f83e50e746b9006d135fe087831.izdata
-file	95016	3ff6379378021a1544d25eb5a2e87e0a9699de8f94886685e0aec8db51952e6e	asset-3ff6379378021a1544d25eb5a2e87e0a9699de8f94886685e0aec8db51952e6e.izdata
-github	https://github.com/byizmysh/iz2s-store/releases/download/v0.8.0/iz2s-store.iza
+app	iz2s-cheese	iza	0.8.0	IZ2S Cheese	IZMYSH	Tools	Browse and install Switch 2 homebrew.
+repository	https://github.com/byizmysh/iz2s-cheese
+file	821884	7c18569561d4ef5ccbdf59a33cc94dd55925132cf55822086ae41f6522495ea5	launcher.iza
+file	94752	c6891007c193ecd89f79cc6cbeec2e4db9ee3862af4266967a155dd0324e549c	asset-c6891007c193ecd89f79cc6cbeec2e4db9ee3862af4266967a155dd0324e549c.izdata
+github	https://github.com/byizmysh/iz2s-cheese/releases/download/v0.8.0/iz2s-cheese.iza
 app	kaiplayer	nro	0.9.0-beta	KaiPlayer	mizuiroame	Media	Listen to music stored on your SD card with a native audio player made for Switch 2.
 repository	https://github.com/mizuiroame/kaiplayer
 file	2133314	f8d90a4e1b427078146571ec40f655609e493e0a4e2243a4f823f918da6cb535	launcher.nro
