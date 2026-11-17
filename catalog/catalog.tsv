@@ -9,8 +9,9 @@ file	516376	d9457fe53d4b32456a20d6d418c9bf5300acaa3418e860175cc8f9db7199cbb3	lau
 github	https://github.com/byizmysh/BlitBun/releases/download/v1.15.8/blitbun-1.15.8.iza
 app	iz2s-store	iza	0.8.0	IZ2S Store	IZMYSH	Tools	Browse and install Switch 2 homebrew.
 repository	https://github.com/byizmysh/iz2s-store
-file	821884	1ce51fd97f907a5aeb57955e6d8adacb7df92c8b1888d96dda2468deea6b0884	launcher.iza
-file	94304	f6fb3c78b9bf74fb281e35f114f5353e0ad664b44e8a076933fd9f27660118d7	asset-f6fb3c78b9bf74fb281e35f114f5353e0ad664b44e8a076933fd9f27660118d7.izdata
+file	821884	c36812ceb94ba2b015a3652c9e9ae839041ce332fa0ebbf1bfcb5236e0c79bf9	launcher.iza
+file	95064	8f503b70163c3fdc9d988f327a621e3771ec0f83e50e746b9006d135fe087831	asset-8f503b70163c3fdc9d988f327a621e3771ec0f83e50e746b9006d135fe087831.izdata
+file	95016	3ff6379378021a1544d25eb5a2e87e0a9699de8f94886685e0aec8db51952e6e	asset-3ff6379378021a1544d25eb5a2e87e0a9699de8f94886685e0aec8db51952e6e.izdata
 github	https://github.com/byizmysh/iz2s-store/releases/download/v0.8.0/iz2s-store.iza
 app	kaiplayer	nro	0.9.0-beta	KaiPlayer	mizuiroame	Media	Listen to music stored on your SD card with a native audio player made for Switch 2.
 repository	https://github.com/mizuiroame/kaiplayer
