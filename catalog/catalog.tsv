@@ -1,0 +1,98 @@
+IZSTORE2
+app	vacootube	iza	1.5.7	VacooTube	IZMYSH	Media	Watch YouTube on Switch 2 with a TV-style interface. Requires VacooTube on a Linux PC and an active IZ2S connection.
+repository	https://github.com/byizmysh/VacooTube
+file	509940	2291046770bc487b16b20704196de6bb961150c16209132268a7faf9a6cb39c2	launcher.iza
+github	https://github.com/byizmysh/VacooTube/releases/download/v1.5.7/vacootube-1.5.7.iza
+app	blitbun	iza	1.15.8	BlitBun	IZMYSH	Tools	Stream PC video and audio to Switch 2. Requires BlitBun on a Linux PC and an active IZ2S connection.
+repository	https://github.com/byizmysh/BlitBun
+file	516376	d9457fe53d4b32456a20d6d418c9bf5300acaa3418e860175cc8f9db7199cbb3	launcher.iza
+github	https://github.com/byizmysh/BlitBun/releases/download/v1.15.8/blitbun-1.15.8.iza
+app	iz2s-store	iza	0.8.0	IZ2S Store	IZMYSH	Tools	Browse and install Switch 2 homebrew.
+repository	https://github.com/byizmysh/iz2s-store
+file	821884	84e2611f9442b788e80bd7ec7c68131e57187a1453128e4e367ffe612d8a7d67	launcher.iza
+file	94296	5e0d4ecc213dd4ddf581b2744975e27609508291dbe3a4b9dc0b45cd49789f9b	asset-5e0d4ecc213dd4ddf581b2744975e27609508291dbe3a4b9dc0b45cd49789f9b.izdata
+github	https://github.com/byizmysh/iz2s-store/releases/download/v0.8.0/iz2s-store.iza
+app	kaiplayer	nro	0.9.0-beta	KaiPlayer	mizuiroame	Media	Listen to music stored on your SD card with a native audio player made for Switch 2.
+repository	https://github.com/mizuiroame/kaiplayer
+file	2133314	f8d90a4e1b427078146571ec40f655609e493e0a4e2243a4f823f918da6cb535	launcher.nro
+github	https://github.com/mizuiroame/kaiplayer/releases/download/v0.9.0-beta/KaiPlayer.nro
+app	sw2nes	nro	2.12.2	SW2NES	Rodpad	Emulators	Play your local NES and Famicom games on Switch 2. Includes save states and on-screen playback settings.
+repository	https://github.com/Rodpad/SW2NES
+file	22202374	661f55474fa9d7dc9dc2f0f63902147ffbebf1022f6471b72fa1991137a1f33a	launcher.nro
+github	https://github.com/Rodpad/SW2NES/releases/download/v2.12.2/sw2nes.nro
+app	checkpoint	nro	5.3.0-switch2-1	Checkpoint	FlagBrew / wowilookgood	Tools	Back up and restore game saves from a console interface.
+repository	https://github.com/wowilookgood/Checkpoint
+file	21280085	aa11bf9567b5469bd8a2479e2060c8be1c4beb3f82cb4370233f68e5cab58fc2	launcher.nro
+github	https://github.com/wowilookgood/Checkpoint/releases/download/v5.3.0-switch2-1/Checkpoint-hen.nro
+app	pksm	nro	10.4.0-switch2-1	PKSM	FlagBrew / wowilookgood	Tools	Manage compatible Pokemon game saves and organize local collections.
+repository	https://github.com/wowilookgood/PKSM
+file	28274964	5d406215feba4c33483829855b21eaad18be5e2142b0ab3204dc2e3d63a2f860	launcher.nro
+github	https://github.com/wowilookgood/PKSM/releases/download/10.4.0-switch2-1/PKSM-hen.nro
+app	nxgallery	nro	2.0.0-switch2-1	NXGallery	iUltimateLP / wowilookgood	Media	View console captures and transfer them to a browser over your local network.
+repository	https://github.com/wowilookgood/NXGallery
+file	20421866	86574515d2a5d61cbbb44411503ac888a2725375d9d864c8f0cec0efd3e9e0a2	launcher.nro
+github	https://github.com/wowilookgood/NXGallery/releases/download/2.0.0-switch2-1/NXGallery-hen.nro
+app	akira	nro	0.2.2	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
+repository	https://github.com/chiaki-ng/akira-ounce
+file	22316112	99f8d209de187a2699936a79162fa6220cab236788c7b901423bafcccd0c9a25	launcher.nro
+github	https://github.com/chiaki-ng/akira-ounce/releases/download/v0.2.2/akira.nro
+app	ounce-donut	nro	1.0	Ounce Donut	Rix565	Games	A small animated ASCII donut demo for Switch 2.
+repository	https://github.com/Rix565/ouncedonut
+file	24994521	8f8c1cd79a2b21f0d57ae349b971bd35ebee8cf15400da62fe22208e8f07882f	launcher.nro
+github	https://github.com/Rix565/ouncedonut/releases/download/v1.0/Donut.nro
+app	kaitube	nro	0.0.2-beta	KaiTube	Sank-kab	Media	Experimental native YouTube client for Switch 2.
+repository	https://github.com/Sank-kab/KaiTube
+file	47938914	6c6b57dbf16629d864135761f31c9f4410fdef9ffd66db7ff0af47a08e2c5c6a	launcher.nro
+github	https://github.com/Sank-kab/KaiTube/releases/download/v0.0.2-beta/KaiTube-beta0.0.2.nro
+app	internal-speakers	nro	1.0.0-ounce	Force Internal Speakers	souldbminerr / paulocode	Tools	Route sound to the built-in speakers while the console is docked.
+repository	https://github.com/souldbminerr/switch_internal_speakers_nro
+file	364711	4c2c1eab0f6114122a5216938ff027d70c7e27ded3ab728b35317ba09d1d9bff	launcher.nro
+github	https://github.com/souldbminerr/switch_internal_speakers_nro/releases/download/v1.0.0-ounce/switch_internal_speakers_nro.nro
+app	green-nx	nro	1.0.31pre1-switch2	Green-NX	davidkalil10 / atjike	Media	Cloud gaming client for Switch 2. Requires a compatible account and internet connection.
+repository	https://github.com/davidkalil10/green-nx_switch-2
+file	22575167	11bea13202099c530f1b4e7bc9a58300430e2de4e6b3d213af460639fe51d9c4	launcher.nro
+github	https://github.com/davidkalil10/green-nx_switch-2/releases/download/v1.0.31pre1-switch2/green-nx-switch2.nro
+app	dolphin	nro	1.0.0	Dolphin	MegaCadeDev / Dolphin team	Emulators	Early test port of Dolphin for Switch 2: GameCube and Wii emulation with Vulkan and JIT. Supply your own games. USB drives are not supported; performance and graphics vary by game.
+repository	https://github.com/MegaCadeDev/dolphin-nx2
+file	44676744	e0a502e6e43d67b0c7394d0ee649d7c0a07f8c9c4b55300042f0c8c761224de7	launcher.nro
+github	https://github.com/MegaCadeDev/dolphin-nx2/releases/download/v1.0.0/dolphin.nro
+app	mgba	nro	1.0.0	mGBA	jackspence7 / mGBA team	Emulators	Native mGBA port for Switch 2 homebrew. Play your own GBA games with sound, save states and screen modes. GB/GBC support is present but was not tested by the port author.
+repository	https://github.com/jackspence7/GBA-kaiHEN
+file	18192371	d36444da81498d6cae058745117f659a3cfb3d2fffb609bfbcf05a4a98c820ae	launcher.nro
+github	https://github.com/jackspence7/GBA-kaiHEN/releases/download/v1.0.0/mgba.nro
+app	kaizhar	nro	2126.2-kaizhar2	Kaizhar	wowilookgood / Azahar team	Emulators	Unofficial Azahar 3DS emulator for Switch 2 with Vulkan, JIT and several screen layouts. Put your own decrypted games in /switch/Kaizhar/roms. First launches compile shaders; encrypted CIA files are refused.
+repository	https://github.com/wowilookgood/kaizhar
+file	32035338	820fc60524cb7ec289144ca65929c64d2bf4c0a86a8d7887a63befa4d5b73d75	launcher.nro
+github	https://github.com/wowilookgood/kaizhar/releases/download/2126.2-kaizhar2/kaizhar.nro
+app	melee	nro	0.8.4	Melee (Switch 2)	Prlxd / melee-unlocked	Games	Native Melee port with an optional 20XX mode. Requires your own NTSC-U 1.02 ISO in /melee/. First launch prepares shaders. Offline play only; no game data is included.
+repository	https://github.com/Prlxd/melee-switch2-port
+file	29561060	b95b9ec5c7a03886ac5eb106b3cd84313f39b8a49c6f8dbb08b516b9b734cd28	launcher.nro
+github	https://github.com/Prlxd/melee-switch2-port/releases/download/v0.8.4/melee-switch2-port.nro
+app	dusklight	nro	2.0.3-switch2-1	Dusklight	wowilookgood / Twilit Realm	Games	Unofficial Switch 2 port of Dusklight. Requires your own Twilight Princess GameCube disc as a plain ISO in /switch/Dusklight/. Wii and RVZ images are unsupported. Shader compilation may cause brief pauses.
+repository	https://github.com/wowilookgood/dusklight
+file	58616767	ba572af4b7edd1d6793b769e3e375220f928d7dd8dd71a422e042559b0213d80	launcher.nro
+github	https://github.com/wowilookgood/dusklight/releases/download/v2.0.3-switch2-1/dusklight.nro
+app	dkc2	nro	0.0.5-oz1	DKC2 Recompiled	souldbminerr / elliottate	Games	Switch 2 port of DKC2Recomp. Supply your own compatible Donkey Kong Country 2 ROM at /switch/dkc2/rom.sfc. Game data is not included; see the repository for ROM requirements.
+repository	https://github.com/souldbminerr/DKC2Recomp-NX
+file	33604098	01ecd74a67612dc8903ac5d7e77a95642e40be58d163293fc5b0fbd6d3fb3690	launcher.nro
+github	https://github.com/souldbminerr/DKC2Recomp-NX/releases/download/v0.0.5-oz1/dkc2.nro
+app	dkc3	nro	0.0.5-oz1	DKC3 Recompiled	souldbminerr / elliottate	Games	Switch 2 port of DKC3Recomp. Supply your own compatible Donkey Kong Country 3 ROM at /switch/dkc3/rom.sfc. Game data is not included; see the repository for ROM requirements.
+repository	https://github.com/souldbminerr/DKC3Recomp-NX
+file	31566239	1b6b9358dc9c9c380e670785eae729b38a4f9f7ae5dcc41a50522ffa179d6544	launcher.nro
+github	https://github.com/souldbminerr/DKC3Recomp-NX/releases/download/v0.0.5-oz1/dkc3.nro
+app	openrct2	nro	1.0-ounce	OpenRCT2	souldbminerr / OpenRCT2 team	Games	Switch 2 port of OpenRCT2 with mouse and gamepad controls. Requires your own RollerCoaster Tycoon data in /switch/openrct2/rct2/ (or rct1/ for RCT1). The download contains the engine, not the original game.
+repository	https://github.com/souldbminerr/OpenRCT2-Switch
+file	34373336	9c129e383c5f48186ca46a10e7ed1c221e4057b8e4943bff01a8a2d18a7782f4	launcher.nro
+github	https://github.com/souldbminerr/OpenRCT2-Switch/releases/download/v1.0-ounce/openrct2.nro
+app	90dns-tester	nro	1.0.5-Ounce	90DNS Tester	souldbminerr / 90DNS Tester contributors	Tools	Run DNS checks on Switch 2 to inspect Nintendo domain blocking. Displays test results; it does not change your console network settings.
+repository	https://github.com/souldbminerr/90DNS-Tester
+file	444366	a33cd6925822b5b890a1a7366ad2e433dd49e240508cd82f8f726465fad83316	launcher.nro
+github	https://github.com/souldbminerr/90DNS-Tester/releases/download/1.0.5-Ounce/Switch_90DNS_tester.nro
+app	nces	nro	release	Nic Cage Eats Stuff	PennyLoafer / Cart1416	Games	Switch 2 port of Nic Cage Eats Stuff. A small arcade homebrew game published as a standalone NRO.
+repository	https://github.com/PennyLoafer5/nces-switch2
+file	22086845	92325e17e71faa6d8f74a9e941c0b82b19118b31d0024c2131ebd3ec6b8fa384	launcher.nro
+github	https://github.com/PennyLoafer5/nces-switch2/releases/download/release/nces-switch2.nro
+app	bad-apple	nro	bad_apple_ounce	Bad Apple!	souldbminerr	Media	Bad Apple audiovisual demo, using the dedicated Ounce build for Switch 2. This is the Switch 2 release, not the separate Switch 1 binary.
+repository	https://github.com/souldbminerr/bad-apple-switch
+file	59259489	8f097312ab4ebe073aa70edf6830a085255e8880bfa351befedb01321e6f9c02	launcher.nro
+github	https://github.com/souldbminerr/bad-apple-switch/releases/download/bad_apple_ounce/bad-apple-switch.nro
