@@ -133,3 +133,47 @@ app	nx-torrent-player	nro	0.6.0	NX Torrent Player	shodowlo	Media	Native media pl
 repository	https://github.com/shodowlo/NX-torrent-player
 file	43724259	88ebc6e64373d5017d2f29ae04b44caca1dd8fbebe0fb7c0b806769735c9456c	launcher.nro
 github	https://github.com/shodowlo/NX-torrent-player/releases/download/v0.6.0/NX2-torrent-player.nro
+app	switch2now	nro	1.3.0	Switch2NOW	davidkalil10 / Blade-Punisher	Media	Native GeForce NOW client for Switch 2. Requires a GeForce NOW account, a supported region and an internet connection. Uses the dedicated Switch 2 build.
+repository	https://github.com/davidkalil10/Switch2NOW
+file	47569574	2591acba44f99645a9b1de80eac8aef7ae7a8d70083492fd0a4014b8ef38eeb3	launcher.nro
+github	https://github.com/davidkalil10/Switch2NOW/releases/download/v1.3.0/SwitchNOW-switch2.nro
+app	sw2snes	nro	1.0.1	SW2SNES	Rodpad / Snes9x contributors	Emulators	SNES emulator for Switch 2 using Snes9x, with save states, rewind and shaders. Supply your own games in /roms/snes or select another folder in Settings. Version 1.0.1 is the current published release.
+repository	https://github.com/Rodpad/SW2SNES
+file	21748484	ed1e8a246bc2ea9ba8a5772206fcbed83fdcc73b186dbc131b9be2494880c2fb	launcher.nro
+github	https://github.com/Rodpad/SW2SNES/releases/download/v1.0.1/sw2snes.nro
+app	stremnx2	nro	0.3.2	StremNX2	davidkalil10 / denpingus	Media	Unofficial Stremio client using the dedicated Switch 2 build. Requires your own configured add-ons and network access. Launch with full application memory; see the repository for setup.
+repository	https://github.com/davidkalil10/StremNX2
+file	41582595	f333ee836ba596e8fa596eaa854e09c0b00efdc859f14604394c7adeb5d47fd7	launcher.nro
+github	https://github.com/davidkalil10/StremNX2/releases/download/v0.3.2/stremnx-switch2.nro
+app	nhse	nro	4.0.0	NHSE	sh00kapic / NHSE contributors	Tools	Animal Crossing: New Horizons save editor for Switch 2. Close the game before editing; saves are backed up when opened and written when you confirm Save. Includes console and SD save editing; some desktop features are unavailable.
+repository	https://github.com/sh00kapic/nhse
+file	7724601	72ba04aa5d9b4715f604447d209930ab842591aaedae26ba6f33a50632fd811b	launcher.nro
+github	https://github.com/sh00kapic/nhse/releases/download/v4.0.0/nhse.nro
+app	kairadio	nro	1.0.1	KaiRadio	mizuiroame	Media	Internet radio player for Switch 2 under kaiHEN. Browse stations and save favourites. Requires a network connection; configuration is stored next to the application.
+repository	https://github.com/mizuiroame/kairadio
+file	21528129	4f8140b66b793fddb2637132869d720d37e7080c2a19cea7cf7a70decef0a0a5	launcher.nro
+github	https://github.com/mizuiroame/kairadio/releases/download/v1.0.1/KaiRadio.nro
+app	abreloaded	nro	1.0.2	Angry Birds Reloaded wrapper	githubuser77777 / aks796	Games	Native Android compatibility wrapper for Angry Birds Reloaded 2.2.16218. Requires your own APK libraries, assets and cursor images in /switch/abreloaded, plus kaiHEN ldr:ro support. This download installs only the wrapper; follow the repository setup guide.
+repository	https://github.com/githubuser77777/abreloaded_nx2
+file	18048453	9f276f2ab731a15db118ffd46d79b1086dd4f1dd7376ddabc95df1e4ee63e482	launcher.nro
+github	https://github.com/githubuser77777/abreloaded_nx2/releases/download/1.0.2/abreloaded_nx.nro
+app	nxengine-evo	nro	2.6.5-oz	NXEngine-evo (Switch 2)	ya-v-ia / NXEngine-evo contributors	Games	Switch 2 port of the open-source NXEngine-evo engine for Cave Story. This entry uses the Ounce build. Follow the repository for game resources and controls; user data is stored relative to the NRO location.
+repository	https://github.com/ya-v-ia/ounce-nxengine-evo
+file	58013138	47d456b3b221db54b6a2f8ada0d0c56549f90f9d0a8808df1ce1bb440256e30f	launcher.nro
+github	https://github.com/ya-v-ia/ounce-nxengine-evo/releases/download/v2.6.5-oz/Ounce-NXEngine-Evo-2.6.5.nro
+app	super-moonlight-nx2	nro	1.0.0	Super Moonlight NX2	davidkalil10 / Azkali	Media	Stream PC games from Sunshine over LAN or the built-in Tailscale tunnel. Requires a Sunshine host and kaiHEN 20261114c or newer. Select H.264 in Settings before streaming; the release notes report an AV1 startup issue.
+repository	https://github.com/davidkalil10/super-moonlight-nx2
+file	13822737	732efef01dae852adfffe2dfee9f027deaa38f2a3167501b1ca53654aef98328	launcher.nro
+github	https://github.com/davidkalil10/super-moonlight-nx2/releases/download/v1.0.0/super-moonlight-nx2.nro
+app	game-vault	nro	0.4.5	Game Vault	flex36ty / Game Vault contributors	Tools	Game and save backup, restore and file transfer utility for Switch 2. Requires the separately installed compatible kaiHEN fsipc-v1 runtime and SD helpers. This download updates only the app; follow the upstream runtime guide. Full backup/restore verification is still pending upstream.
+repository	https://github.com/flex36ty/switch2-gamevault
+file	2289863	d52106c5881a298ad72c2a8e5b62d7a0259204d19d3a8ddcaceedb58c66f2f43	launcher.nro
+github	https://github.com/flex36ty/switch2-gamevault/releases/download/v0.4.5/game-vault-v045.nro
+app	punktfunk	nro	0.1.0	PunktFunk	d0vere / punktfunk contributors	Media	Stream PC games to Switch 2 over your home network. Requires the punktfunk host on your PC, kaiHEN and full application memory. Handheld mode is recommended by the port author; pair with the PIN shown by your host.
+repository	https://github.com/d0vere/punktfunk-client-switch2
+file	41140096	7f8a533dd07cdd7a338cd0b1612982ccb4819d03cee1c7664349a030b2c28457	launcher.nro
+github	https://github.com/d0vere/punktfunk-client-switch2/releases/download/v0.1.0/punktfunk-switch2.nro
+app	kaidump	nro	1.0.2	KaiDump	BlafKing	Tools	Export your installed games, updates, DLC, ExeFS and RomFS to SD, FTP or USB. Requires kaiHEN 20261117b or newer and sufficient storage. Experimental; read the repository requirements before use.
+repository	https://github.com/BlafKing/KaiDump
+file	19811881	12ec8c08159b918ba7eeafe6396b2cecc746c18d83708eb1c46e5c37e1c710ad	launcher.nro
+github	https://github.com/BlafKing/KaiDump/releases/download/1.0.2/KaiDump.nro
