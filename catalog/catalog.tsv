@@ -64,22 +64,6 @@ app	kaizhar	nro	2126.2-kaizhar2	Kaizhar	wowilookgood / Azahar team	Emulators	Uno
 repository	https://github.com/wowilookgood/kaizhar
 file	32035338	820fc60524cb7ec289144ca65929c64d2bf4c0a86a8d7887a63befa4d5b73d75	launcher.nro
 github	https://github.com/wowilookgood/kaizhar/releases/download/2126.2-kaizhar2/kaizhar.nro
-app	melee	nro	0.8.4	Melee (Switch 2)	Prlxd / melee-unlocked	Games	Native Melee port with an optional 20XX mode. Requires your own NTSC-U 1.02 ISO in /melee/. First launch prepares shaders. Offline play only; no game data is included.
-repository	https://github.com/Prlxd/melee-switch2-port
-file	29561060	b95b9ec5c7a03886ac5eb106b3cd84313f39b8a49c6f8dbb08b516b9b734cd28	launcher.nro
-github	https://github.com/Prlxd/melee-switch2-port/releases/download/v0.8.4/melee-switch2-port.nro
-app	dusklight	nro	2.0.3-switch2-1	Dusklight	wowilookgood / Twilit Realm	Games	Unofficial Switch 2 port of Dusklight. Requires your own Twilight Princess GameCube disc as a plain ISO in /switch/Dusklight/. Wii and RVZ images are unsupported. Shader compilation may cause brief pauses.
-repository	https://github.com/wowilookgood/dusklight
-file	58616767	ba572af4b7edd1d6793b769e3e375220f928d7dd8dd71a422e042559b0213d80	launcher.nro
-github	https://github.com/wowilookgood/dusklight/releases/download/v2.0.3-switch2-1/dusklight.nro
-app	dkc2	nro	0.0.5-oz1	DKC2 Recompiled	souldbminerr / elliottate	Games	Switch 2 port of DKC2Recomp. Supply your own compatible Donkey Kong Country 2 ROM at /switch/dkc2/rom.sfc. Game data is not included; see the repository for ROM requirements.
-repository	https://github.com/souldbminerr/DKC2Recomp-NX
-file	33604098	01ecd74a67612dc8903ac5d7e77a95642e40be58d163293fc5b0fbd6d3fb3690	launcher.nro
-github	https://github.com/souldbminerr/DKC2Recomp-NX/releases/download/v0.0.5-oz1/dkc2.nro
-app	dkc3	nro	0.0.5-oz1	DKC3 Recompiled	souldbminerr / elliottate	Games	Switch 2 port of DKC3Recomp. Supply your own compatible Donkey Kong Country 3 ROM at /switch/dkc3/rom.sfc. Game data is not included; see the repository for ROM requirements.
-repository	https://github.com/souldbminerr/DKC3Recomp-NX
-file	31566239	1b6b9358dc9c9c380e670785eae729b38a4f9f7ae5dcc41a50522ffa179d6544	launcher.nro
-github	https://github.com/souldbminerr/DKC3Recomp-NX/releases/download/v0.0.5-oz1/dkc3.nro
 app	openrct2	nro	1.0-ounce	OpenRCT2	souldbminerr / OpenRCT2 team	Games	Switch 2 port of OpenRCT2 with mouse and gamepad controls. Requires your own RollerCoaster Tycoon data in /switch/openrct2/rct2/ (or rct1/ for RCT1). The download contains the engine, not the original game.
 repository	https://github.com/souldbminerr/OpenRCT2-Switch
 file	34373336	9c129e383c5f48186ca46a10e7ed1c221e4057b8e4943bff01a8a2d18a7782f4	launcher.nro
