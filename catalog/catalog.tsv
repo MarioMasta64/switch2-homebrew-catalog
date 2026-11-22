@@ -161,3 +161,47 @@ app	kaidump	nro	1.0.2	KaiDump	BlafKing	Tools	Export your installed games, update
 repository	https://github.com/BlafKing/KaiDump
 file	19811881	12ec8c08159b918ba7eeafe6396b2cecc746c18d83708eb1c46e5c37e1c710ad	launcher.nro
 github	https://github.com/BlafKing/KaiDump/releases/download/1.0.2/KaiDump.nro
+app	ppsspp-davidkalil	nro	1.1.9	PPSSPP (davidkalil10)	davidkalil10 / PPSSPP contributors	Emulators	PSP emulator port for Switch 2 with Vulkan and kaiHEN JIT. Supply your own games and launch with full application memory. This is davidkalil10's fork; the separate XITRIX fork adds experimental GameShare. Optional frame generation needs your own Lossless.dll.
+repository	https://github.com/davidkalil10/ppsspp-nx2
+file	67165694	5ada96c313055aa56391c0468efc72ea46a33944dea8436e420318b33a45948f	launcher.nro
+github	https://github.com/davidkalil10/ppsspp-nx2/releases/download/v1.1.9/PPSSPP-switch2.nro
+app	ppsspp-xitrix	nro	0.1.0	PPSSPP (XITRIX GameShare)	XITRIX / PPSSPP contributors	Emulators	Separate PPSSPP port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own PSP games; see upstream for supported GameShare setup. This is distinct from davidkalil10's fork.
+repository	https://github.com/XITRIX/ppsspp-nx2
+file	66816508	9351dbb8cc4950c204d8ddf9d962fdaab05e6ed28e2ace754d3a25d79afdaff3	launcher.nro
+github	https://github.com/XITRIX/ppsspp-nx2/releases/download/v0.1.0/PPSSPP-NX2.nro
+app	sw2ps2	nro	1.1.0	SW2PS2	Rodpad / OunceSX2 contributors	Emulators	Early PlayStation 2 emulator for Switch 2 under kaiHEN, based on OunceSX2. Supply your own BIOS in /bios/ps2 and game dumps in /roms/ps2, or configure other folders. Includes per-game settings, save states and experimental Multitap support.
+repository	https://github.com/Rodpad/SW2PS2
+file	43681225	789b7d05fe7aaf3435be4cdd4dc01693edc88bf00f29ed8ec315fce147cb4737	launcher.nro
+github	https://github.com/Rodpad/SW2PS2/releases/download/v1.1.0/sw2ps2.nro
+app	vita3k-nx2	nro	1.4.1	Vita3K-nx2	davidkalil10 / Vita3K contributors	Emulators	Experimental PS Vita emulator for Switch 2 using Vulkan and kaiHEN JIT. Launch with full application memory. Install firmware and fonts using the launcher or the upstream manual procedure; supply your own games and required licenses. Firmware and game data are not included.
+repository	https://github.com/davidkalil10/Vita3K-nx2
+file	78472912	d83b43b0a99cb644d83fb596f8c92a1e0a0003a200efbf36a4edefd65e53f52d	launcher.nro
+github	https://github.com/davidkalil10/Vita3K-nx2/releases/download/v1.4.1/Vita3K-switch2.nro
+app	toronja	nro	0.9.37	Toronja (Switch 2)	Olmectron / Azahar and Dekopon contributors	Emulators	Nintendo 3DS emulator fork with Switch 2 rendering improvements and experimental GameShare. Uses the dedicated Switch 2 build; provide your own game dumps. On first launch it can rename /switch/dekopon to /switch/toronja and move existing data; back up that folder if keeping both apps.
+repository	https://github.com/Olmectron/toronja
+file	33451020	8bf2a11853dfa1dcad1f5afe7c13f6f7fb375470283aac9339f4117273283b05	launcher.nro
+github	https://github.com/Olmectron/toronja/releases/download/v0.9.37/toronja-switch2.nro
+app	eden	nro	0.7.0	Eden (Switch 2 PoC)	Olmectron / Eden contributors	Emulators	Experimental Switch 1 emulator running on Switch 2 under kaiHEN. Supply your own games and keys in /switch/eden/.local/share/eden/keys/. Expect crashes, stutter and missing graphics; one player, no touch or guest networking. No games, keys or firmware are included.
+repository	https://github.com/Olmectron/eden-switch2-poc
+file	42547397	6e690fcf5f6942bf52bbf1d455d344f3c8fd42309dcda9cc11f71bfcc691877c	launcher.nro
+github	https://github.com/Olmectron/eden-switch2-poc/releases/download/v0.7.0/eden.nro
+app	jksv-ns2	nro	1.0.1	JKSV-NS2	Aster145 / J-D-K (JK)	Tools	Save manager port for Switch 2 under kaiHEN. Back up and restore saves; backups are stored in /JKSV/. Close games before restoring. The interface defaults to Simplified Chinese; English and Japanese are available in Settings after restarting.
+repository	https://github.com/Aster145/JKSV-NS2
+file	20665223	9eed4183f372292bf706ef6b3e2ef4ef508d27cc4d38416f6b8e9645af86d727	launcher.nro
+github	https://github.com/Aster145/JKSV-NS2/releases/download/v1.0.1/JKSV-NS2-1.0.1.nro
+app	ouncemtp	nro	1.0.0	OunceMTP	venustrikes	Tools	USB MTP file transfer between a PC and the Switch 2 SD card. Connect a USB data cable and use an MTP-capable file manager on the PC. No network connection is required.
+repository	https://github.com/venustrikes/ouncemtp
+file	485320	7b4ffab4396f6d94f9832f8301ccf3dff5fdf20ae3f8c0ff6e91a04a58acab17	launcher.nro
+github	https://github.com/venustrikes/ouncemtp/releases/download/v1.0.0/ouncemtp.nro
+app	pkforge	nro	0.7.3	PKForge (Switch 2)	sh00kapic / PKForge contributors	Tools	Offline Pokemon save editor for Switch 2. Place exported save copies in /switch/PKForge/saves/ and export edits to /switch/PKForge/exports/. Optional portraits and local Mystery Gift catalogs are configured separately; editing works without them. Keep backups of your original saves.
+repository	https://github.com/sh00kapic/PKForge-Switch2
+file	64510445	8b23a0134aeae3de742a080f122b06e438d7ec41095ebf26c7034a08f73508b7	launcher.nro
+github	https://github.com/sh00kapic/PKForge-Switch2/releases/download/v0.7.3/PKForge.nro
+app	chromium-nx	nro	0.2.0	Chromium NX (Switch 2)	shodowlo	Tools	Experimental Chromium browser using the dedicated Switch 2 launcher under kaiHEN. On first start it downloads the separate chromium-full.ext4 image (about 411 MiB), or place that image in /switch/chromium-nx/ manually. Requires enough free SD space and network access for online browsing.
+repository	https://github.com/shodowlo/chromium-nx
+file	39704030	68652106987d72abd3423b43fff5e4d5f1499ff167e8197c178559e49f0aeab2	launcher.nro
+github	https://github.com/shodowlo/chromium-nx/releases/download/v0.2.0/chromium-nx2.nro
+app	ouncecord	nro	1-beta	OunceCord	nyathea	Media	Experimental third-party Discord client for Switch 2 under kaiHEN. Supports sign-in with 2FA, messages, reactions and console capture sharing. Requires a Discord account and network access. Upstream warns that third-party clients conflict with Discord's terms and may put accounts at risk.
+repository	https://github.com/nyathea/OunceCord
+file	20947058	fd964ad6edcf075a0b5a22338caa181365379089ebe3513cc8d0260afe85ce60	launcher.nro
+github	https://github.com/nyathea/OunceCord/releases/download/v1-beta/OunceCord.nro
