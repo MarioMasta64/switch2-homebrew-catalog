@@ -225,10 +225,10 @@ app	netsurf-switch2	nro	3.12-switch2	NetSurf	davidkalil10	Tools	A port of the Ne
 repository	https://github.com/davidkalil10/netsurf-switch2
 file	43937762	251fd5337a45e86e0af63e89a3633964a78e7b1bb06ecc17560d9f009079b13c	launcher.nro
 github	https://github.com/davidkalil10/netsurf-switch2/releases/download/v3.12-switch2/netsurf-switch2.nro
-app	seedswap	nro	0.13.0	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Switch 1 games on a Switch 2 by running them in place of Seedsow Lullaby or another installed Switch 1 game.
+app	seedswap	nro	0.13.1	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Switch 1 games on a Switch 2 by running them in place of Seedsow Lullaby or another installed Switch 1 game.
 repository	https://github.com/Hinoaaaaaf212/SeedSwap
-file	1443934	1c28e4702b95a84b7f992d92b8c266ce74c812e3fa20488678ae6d93c1a534de	launcher.nro
-github	https://github.com/Hinoaaaaaf212/SeedSwap/releases/download/v0.13.0/seedswap.nro
+file	1452126	f9fc3457d7bb55c810793ab57112103ffce660a83bc4c7e2b4ffa202b7502bc6	launcher.nro
+github	https://github.com/Hinoaaaaaf212/SeedSwap/releases/download/v0.13.1/seedswap.nro
 app	switch2homebrew-store	nro	0.5.2	Switch 2 Homebrew Store	coldbreathAI	Tools	Native homebrew catalog and store for Nintendo Switch 2.
 repository	https://github.com/coldbreathAI/Switch2Homebrew-Store
 file	46272577	bc33efd71e467b810cda71467e5710331e8f35aa780d7acdfc3cd448b0689a2d	launcher.nro
