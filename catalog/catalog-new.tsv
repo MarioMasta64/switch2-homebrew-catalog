@@ -229,3 +229,7 @@ app	seedswap	nro	0.12.1	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Swit
 repository	https://github.com/Hinoaaaaaf212/SeedSwap
 file	1439838	c19ccda8fa01ca740283a29ee4423ab4f3d531a70cef688a682418e0c5dd3430	launcher.nro
 github	https://github.com/Hinoaaaaaf212/SeedSwap/releases/download/v0.12.1/seedswap.nro
+app	switch2homebrew-store	nro	0.5.2	Switch 2	Homebrew Store	coldbreathAI	Tools	Native homebrew catalog and store for Nintendo Switch 2.
+repository	https://github.com/coldbreathAI/Switch2Homebrew-Store
+file	46272577	bc33efd71e467b810cda71467e5710331e8f35aa780d7acdfc3cd448b0689a2d	launcher.nro
+github	https://github.com/coldbreathAI/Switch2Homebrew-Store/releases/download/v0.5.2/Switch2Homebrew-Store-v0.5.2.nro
