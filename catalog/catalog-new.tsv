@@ -84,6 +84,11 @@ app	bad-apple	nro	bad_apple_ounce	Bad Apple!	souldbminerr	Media	Bad Apple audiov
 repository	https://github.com/souldbminerr/bad-apple-switch
 file	59259489	8f097312ab4ebe073aa70edf6830a085255e8880bfa351befedb01321e6f9c02	launcher.nro
 github	https://github.com/souldbminerr/bad-apple-switch/releases/download/bad_apple_ounce/bad-apple-switch.nro
+app	izpsx	iza	0.5.2	IZPSX	IZMYSH	Emulators	Play your PlayStation games on Switch 2. Requires IZ2S and your own BIOS and game files.
+repository	https://github.com/byizmysh/IZPSX-emulator
+file	160696	bc3054dc595fa9d99eba9badd2304f8a1536636b42acd7b70b428fdc97b3f0d0	launcher.iza
+file	1746048	b87343c59604a1ffc497ec852e7fc80beb65cf92b6e208124528a4a39b6fb8db	asset-b87343c59604a1ffc497ec852e7fc80beb65cf92b6e208124528a4a39b6fb8db.izdata
+github	https://github.com/byizmysh/IZPSX-emulator/releases/download/v0.5.2/launcher.iza
 app	cemu-nx2	nro	1.4.1	Cemu-NX2	TheAJLive / Cemu team	Emulators	Wii U emulator for Switch 2 under kaiHEN. Requires your own games and about 5.5 GiB of homebrew heap. USB drives and SaltyNX are not supported.
 repository	https://github.com/TheAJLive/Cemu-NX2
 file	89892006	2e3faff528d0928bf48c5bd48743d62c31e58a45dd4d5b8fe080804a2c81643d	launcher.nro
