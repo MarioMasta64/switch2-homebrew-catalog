@@ -1,4 +1,17 @@
 IZSTORE3
+app	vacootube	iza	1.5.7	VacooTube	IZMYSH	Media	Watch YouTube on Switch 2 with a TV-style interface. Requires VacooTube on a Linux PC and an active IZ2S connection.
+repository	https://github.com/byizmysh/VacooTube
+file	509940	2291046770bc487b16b20704196de6bb961150c16209132268a7faf9a6cb39c2	launcher.iza
+github	https://github.com/byizmysh/VacooTube/releases/download/v1.5.7/vacootube-1.5.7.iza
+app	blitbun	iza	1.15.8	BlitBun	IZMYSH	Tools	Stream PC video and audio to Switch 2. Requires BlitBun on a Linux PC and an active IZ2S connection.
+repository	https://github.com/byizmysh/BlitBun
+file	516376	d9457fe53d4b32456a20d6d418c9bf5300acaa3418e860175cc8f9db7199cbb3	launcher.iza
+github	https://github.com/byizmysh/BlitBun/releases/download/v1.15.8/blitbun-1.15.8.iza
+app	iz2s-cheese	iza	0.8.1	IZ2S Cheese	IZMYSH	Tools	Browse and install Switch 2 homebrew.
+repository	https://github.com/byizmysh/iz2s-cheese
+file	821884	7239f9545677ee1c887f7ea1e32dc83c381e2bbc4848c640fee38078675c0386	launcher.iza
+file	95408	e761d0d4cd8615032ef60cfc14a22da2c949028146943bc7c2625231ddf20293	asset-e761d0d4cd8615032ef60cfc14a22da2c949028146943bc7c2625231ddf20293.izdata
+github	https://github.com/byizmysh/iz2s-cheese/releases/download/v0.8.1/iz2s-cheese.iza
 app	iz2s-cheese	nro	0.8.7	IZ2S Cheese	IZMYSH	Tools	Browse and install Switch 2 homebrew.
 repository	https://github.com/byizmysh/iz2s-cheese
 file	1279419	09d99bc8b935ec0618874f999d063fafb313f91c3cd8a84676e0eb9a7328aa80	launcher.nro
@@ -191,16 +204,3 @@ app	ouncecord	nro	1-beta	OunceCord	nyathea	Media	Experimental third-party Discor
 repository	https://github.com/nyathea/OunceCord
 file	20947058	fd964ad6edcf075a0b5a22338caa181365379089ebe3513cc8d0260afe85ce60	launcher.nro
 github	https://github.com/nyathea/OunceCord/releases/download/v1-beta/OunceCord.nro
-app	vacootube	iza	1.5.7	VacooTube	IZMYSH	Media	Watch YouTube on Switch 2 with a TV-style interface. Requires VacooTube on a Linux PC and an active IZ2S connection.
-repository	https://github.com/byizmysh/VacooTube
-file	509940	2291046770bc487b16b20704196de6bb961150c16209132268a7faf9a6cb39c2	launcher.iza >> catalog-new-temp.tsv
-github	https://github.com/byizmysh/VacooTube/releases/download/v1.5.7/vacootube-1.5.7.iza
-app	blitbun	iza	1.15.8	BlitBun	IZMYSH	Tools	Stream PC video and audio to Switch 2. Requires BlitBun on a Linux PC and an active IZ2S connection.
-repository	https://github.com/byizmysh/BlitBun
-file	516376	d9457fe53d4b32456a20d6d418c9bf5300acaa3418e860175cc8f9db7199cbb3	launcher.iza
-github	https://github.com/byizmysh/BlitBun/releases/download/v1.15.8/blitbun-1.15.8.iza
-app	iz2s-cheese	iza	0.8.1	IZ2S Cheese	IZMYSH	Tools	Browse and install Switch 2 homebrew.
-repository	https://github.com/byizmysh/iz2s-cheese
-file	821884	7239f9545677ee1c887f7ea1e32dc83c381e2bbc4848c640fee38078675c0386	launcher.iza
-file	95408	e761d0d4cd8615032ef60cfc14a22da2c949028146943bc7c2625231ddf20293	asset-e761d0d4cd8615032ef60cfc14a22da2c949028146943bc7c2625231ddf20293.izdata
-github	https://github.com/byizmysh/iz2s-cheese/releases/download/v0.8.1/iz2s-cheese.iza
