@@ -1,0 +1,36 @@
+name: Update catalogs
+
+on:
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: update-catalogs
+  cancel-in-progress: false
+
+jobs:
+  update-catalogs:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Check and verify upstream releases
+        run: python3 scripts/update_catalogs.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Publish catalog changes
+        shell: bash
+        run: |
+          if git diff --quiet -- catalog/catalog.tsv catalog/catalog-new.tsv; then
+            echo "Both catalogs are up to date."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- catalog/catalog.tsv catalog/catalog-new.tsv
+          git commit -m 'Refresh verified Switch 2 catalog releases'
+          git push origin HEAD:main
