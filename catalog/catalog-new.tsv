@@ -173,10 +173,6 @@ app	sw2ps2	nro	1.1.0	SW2PS2	Rodpad / OunceSX2 contributors	Emulators	Early PlayS
 repository	https://github.com/Rodpad/SW2PS2
 file	43681225	789b7d05fe7aaf3435be4cdd4dc01693edc88bf00f29ed8ec315fce147cb4737	launcher.nro
 github	https://github.com/Rodpad/SW2PS2/releases/download/v1.1.0/sw2ps2.nro
-app	vita3k-nx2	nro	1.4.1	Vita3K-nx2 (davidkalil10)	davidkalil10 / Vita3K contributors	Emulators	Experimental PS Vita emulator for Switch 2 using Vulkan and kaiHEN JIT. Launch with full application memory. Install firmware and fonts using the launcher or the upstream manual procedure; supply your own games and required licenses. Firmware and game data are not included.
-repository	https://github.com/davidkalil10/Vita3K-nx2
-file	78472912	d83b43b0a99cb644d83fb596f8c92a1e0a0003a200efbf36a4edefd65e53f52d	launcher.nro
-github	https://github.com/davidkalil10/Vita3K-nx2/releases/download/v1.4.1/Vita3K-switch2.nro
 app	toronja	nro	0.9.37	Toronja (Switch 2)	Olmectron / Azahar and Dekopon contributors	Emulators	Nintendo 3DS emulator fork with Switch 2 rendering improvements and experimental GameShare. Uses the dedicated Switch 2 build; provide your own game dumps. On first launch it can rename /switch/dekopon to /switch/toronja and move existing data; back up that folder if keeping both apps.
 repository	https://github.com/Olmectron/toronja
 file	33451020	8bf2a11853dfa1dcad1f5afe7c13f6f7fb375470283aac9339f4117273283b05	launcher.nro
@@ -233,7 +229,7 @@ app	kaivideo	nro	1.17.0	KaiVideo	mizuiroame	Media	Video player for Switch 2 unde
 repository	https://github.com/mizuiroame/kaivideo
 file	28905570	b0e9236a6899eff2d444a2d9432d1ecc3f2dd55958bf8e86a146302defd1d6bf	launcher.nro
 github	https://github.com/mizuiroame/kaivideo/releases/download/v1.17.0/KaiVideo.nro
-app	vita3k-nx	nro	1.4.3	Vita3K-NX2 (NaGaa95 GameShare)	NaGaa95 / Vita3K contributors	Emulators	Separate Vita3K port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own PSVita games; This is distinct from davidkalil10s fork.
+app	vita3k-nx	nro	1.4.3	Vita3K-NX2 (NaGaa95 GameShare)	NaGaa95 / Vita3K contributors	Emulators	Vita3K is an experimental PlayStation Vita emulator for Windows, Linux, macOS and Android.
 repository	https://github.com/NaGaa95/Vita3K-nx
 file	81120144	e292bf3819a697d339583c8a035208cb1403b2dad5b87687b7aa3427288cbea1	launcher.nro
 github	https://github.com/NaGaa95/Vita3K-nx/releases/download/1.4.3/Vita3K-NX2.nro
