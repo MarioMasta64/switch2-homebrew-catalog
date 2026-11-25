@@ -237,6 +237,10 @@ app	kaivideo	nro	1.17.0	KaiVideo	mizuiroame	Media	An open-source video player fo
 repository	https://github.com/mizuiroame/kaivideo
 file	28905570	b0e9236a6899eff2d444a2d9432d1ecc3f2dd55958bf8e86a146302defd1d6bf	launcher.nro
 github	https://github.com/mizuiroame/kaivideo/releases/download/v1.17.0/KaiVideo.nro
+app	vita3k-nx	nro	1.4.3	Vita3K-NX2 (NaGaa95 GameShare)	NaGaa95 / Vita3K contributors	Emulators	Separate Vita3K port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own PSVita games; This is distinct from davidkalil10s fork.
+repository	https://github.com/NaGaa95/Vita3K-nx
+file	81120144	e292bf3819a697d339583c8a035208cb1403b2dad5b87687b7aa3427288cbea1	launcher.nro
+github	https://github.com/NaGaa95/Vita3K-nx/releases/download/1.4.3/Vita3K-NX2.nro
 app	dolphin-nx	nro	1.2.3	Dolphin-NX (NaGaa95 GameShare)	NaGaa95 / Dolphin contributors	Emulators	Separate Dolphin port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own Wii games; This is distinct from MegaCadeDevs fork.
 repository	https://github.com/NaGaa95/dolphin-nx
 file	92144300	c90089f92356a2ee6d923a1a7721c4999dd9595cd26f2900d671a0dd2453c1f3	launcher.nro
@@ -245,7 +249,3 @@ app	cemu-nx	nro	1.3.4	cemu-nx (NaGaa95 GameShare)	NaGaa95 / Cemu contributors	Em
 repository	https://github.com/NaGaa95/Cemu-nx
 file	152555894	d7bb6842506fab22b5ab7e973b2b7ed3fce4834d05dea9c1684f42541672ed12	launcher.nro
 github	https://github.com/NaGaa95/Cemu-nx/releases/download/1.3.4/cemu-nx2.nro
-app	vita3k-nx	nro	1.4.3	Vita3K-NX2 (NaGaa95 GameShare)	NaGaa95 / Vita3K contributors	Emulators	Separate Vita3K port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own PSVita games; This is distinct from davidkalil10s fork.
-repository	https://github.com/NaGaa95/Vita3K-nx
-file	81120144	e292bf3819a697d339583c8a035208cb1403b2dad5b87687b7aa3427288cbea1	launcher.nro
-github	https://github.com/NaGaa95/Vita3K-nx/releases/download/1.4.3/Vita3K-NX2.nro
