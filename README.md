@@ -2,6 +2,8 @@
 
 A community homebrew catalog for Nintendo Switch 2, designed for [IZ2S Cheese](https://github.com/byizmysh/iz2s-cheese).
 
+it is recommended to use [DadaDush's Version](https://github.com/dadadush/switch2-homebrew-catalog) as i will be updating this fork frequently and things may break
+
 ## Catalog URLs
 
 In IZ2S Cheese, open **Settings → Catalog URL** and paste the address for your version.
