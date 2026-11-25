@@ -87,7 +87,7 @@ app	brewstore	nro	1.3.1	Brewstore	HerXayah	Tools	Homebrew catalog and downloader
 repository	https://github.com/HerXayah/brewstore
 file	967718	475481a2b2c938456d193e5233d41afe955f901c62912948ca5523530d1da963	launcher.nro
 github	https://github.com/HerXayah/brewstore/releases/download/1.3.1/brewstore.nro
-app	blacklist-tool	nro	1.1.0	blacklist-tool	s8n	Tools	System utility to inspect or modify the Switch 2 FunctionBlackList. Write operations persist across reboots and may affect Nintendo service access. Follow the upstream instructions. This is the latest release with a published Switch 2 NRO.
+app	blacklist-tool	nro	1.1.0	blacklist-tool	aveao	Tools	System utility to inspect or modify the Switch 2 FunctionBlackList. Write operations persist across reboots and may affect Nintendo service access. Follow the upstream instructions. This is the latest release with a published Switch 2 NRO.
 repository	https://github.com/s8n/blacklist-tool
 file	477381	4f49a482668fa2560188c4cb409534e9c802a3e273d2e9a4fc057966f3b7d381	launcher.nro
 github	https://github.com/s8n/blacklist-tool/releases/download/v1.1.0/blacklist-tool-switch2.nro
@@ -231,3 +231,7 @@ app	iztwins2	nro	0.11.0	IZtwiNS2	IZMYSH	Media	IZtwiNS2 is a standalone Twitch cl
 repository	https://github.com/byizmysh/IZtwiNS2
 file	65255242	57f64a054b4e6418d3ae394c65b6879e8cbc8a5166c92a9729c93d4ba8c2e767	launcher.nro
 github	https://github.com/byizmysh/IZtwiNS2/releases/download/v0.11.0/IZtwiNS2-0.11.0.nro
+app	cheeky-nands	nro	0.1	cheeky-nands	aveao	Tools	Switch 2 homebrew to read NAND partitions and dump them to an SD card or over network to a PC.
+repository	https://github.com/s8n/cheeky-nands
+file	448709	1773c88cfb1d7ca7b9b1019eb32dd876f3e99aa0577fbee459e5dd2677523bb7	launcher.nro
+github	https://github.com/s8n/cheeky-nands/releases/download/v0.1/cheeky-nands-switch2.nro
