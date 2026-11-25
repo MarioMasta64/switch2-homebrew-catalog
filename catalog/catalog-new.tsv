@@ -249,3 +249,7 @@ app	kaireader	nro	1.1.0	KaiReader	mizuiroame	Media	Book and comic reader for Swi
 repository	https://github.com/mizuiroame/kaireader
 file	27048674	bb3c352de5e64712722a85fcdc77e9a44ff97b4263afecf78da8397db2e04923	launcher.nro
 github	https://github.com/mizuiroame/kaireader/releases/download/v1.1.0/KaiReader.nro
+app	local-update-tool	nro	1.0.0	Local Update Tool	AlexTech01	Tools	Homebrew tool for modded Switch 2s running kaiHEN to allow installing game updates from other consoles through "Match Version With Local Users" that would normally be rejected.
+repository	https://github.com/AlexTech01/local-update-tool
+file	551109	a655b66c2b55af798afb3a4eefd65dd77ed6cd21c8f0340f4d63d543fb86c753	launcher.nro
+github	https://github.com/AlexTech01/local-update-tool/releases/download/1.0.0/local-update-tool.nro
