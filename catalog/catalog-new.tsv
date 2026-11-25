@@ -245,3 +245,11 @@ app	dolphin-nx	nro	1.2.3	Dolphin-NX (NaGaa95 GameShare)	NaGaa95 / Dolphin contri
 repository	https://github.com/NaGaa95/dolphin-nx
 file	92144300	c90089f92356a2ee6d923a1a7721c4999dd9595cd26f2900d671a0dd2453c1f3	launcher.nro
 github	https://github.com/NaGaa95/dolphin-nx/releases/download/1.2.3/dolphin-nx2.nro
+app	cemu-nx	nro	1.3.4	cemu-nx (NaGaa95 GameShare)	NaGaa95 / Cemu contributors	Emulators	Separate Cemu port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own WiiU games; This is distinct from TheAJLives fork.
+repository	https://github.com/NaGaa95/Cemu-nx
+file	152555894	d7bb6842506fab22b5ab7e973b2b7ed3fce4834d05dea9c1684f42541672ed12	launcher.nro
+github	https://github.com/NaGaa95/Cemu-nx/releases/download/1.3.4/cemu-nx2.nro
+app	kaireader	nro	1.1.0	KaiVideo	mizuiroame	Media	Book and comic reader for Switch 2 under kaiHEN: your DRM-free EPUB, PDF, CBZ, CBR, FB2, MOBI and TXT from the SD card, a network folder (SMB, WebDAV, FTP, SFTP) or your book server (Calibre-Web, Kavita, Komga), plus public-domain books from Project Gutenberg and Standard Ebooks. Configuration is stored next to the application.
+repository	https://github.com/mizuiroame/kaireader
+file	27048674	bb3c352de5e64712722a85fcdc77e9a44ff97b4263afecf78da8397db2e04923	launcher.nro
+github	https://github.com/mizuiroame/kaireader/releases/download/v1.1.0/KaiReader.nro
