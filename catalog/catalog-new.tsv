@@ -137,3 +137,31 @@ app	nhse	nro	4.2.0	NHSE	sh00kapic / NHSE contributors	Tools	Animal Crossing: New
 repository	https://github.com/sh00kapic/nhse
 file	9690681	06325e61cf5753e972f8126dbaaaaff10c1db0f1ffcf37d9d8b6fa3213320b1d	launcher.nro
 github	https://github.com/sh00kapic/nhse/releases/download/v4.2.0/nhse.nro
+app	kairadio	nro	1.6.0	KaiRadio	mizuiroame	Media	Internet radio and podcast player for Switch 2 under kaiHEN. Find stations on a globe, by country, genre or name, and save favourites. Requires a network connection; configuration is stored next to the application.
+repository	https://github.com/mizuiroame/kairadio
+file	21806657	a1b4a69d6382aabd774e4c77a2ca4e99a9290a22ccca22d13e62f6c88857b0b1	launcher.nro
+github	https://github.com/mizuiroame/kairadio/releases/download/v1.6.0/KaiRadio.nro
+app	abreloaded	nro	1.0.2	Angry Birds Reloaded wrapper	githubuser77777 / aks796	Games	Native Android compatibility wrapper for Angry Birds Reloaded 2.2.16218. Requires your own APK libraries, assets and cursor images in /switch/abreloaded, plus kaiHEN ldr:ro support. This download installs only the wrapper; follow the repository setup guide.
+repository	https://github.com/githubuser77777/abreloaded_nx2
+file	18048453	9f276f2ab731a15db118ffd46d79b1086dd4f1dd7376ddabc95df1e4ee63e482	launcher.nro
+github	https://github.com/githubuser77777/abreloaded_nx2/releases/download/1.0.2/abreloaded_nx.nro
+app	nxengine-evo	nro	2.6.5-oz	NXEngine-evo (Switch 2)	ya-v-ia / NXEngine-evo contributors	Games	Switch 2 port of the open-source NXEngine-evo engine for Cave Story. This entry uses the Ounce build. Follow the repository for game resources and controls; user data is stored relative to the NRO location.
+repository	https://github.com/ya-v-ia/ounce-nxengine-evo
+file	58013138	47d456b3b221db54b6a2f8ada0d0c56549f90f9d0a8808df1ce1bb440256e30f	launcher.nro
+github	https://github.com/ya-v-ia/ounce-nxengine-evo/releases/download/v2.6.5-oz/Ounce-NXEngine-Evo-2.6.5.nro
+app	super-moonlight-nx2	nro	1.0.0	Super Moonlight NX2	davidkalil10 / Azkali	Media	Stream PC games from Sunshine over LAN or the built-in Tailscale tunnel. Requires a Sunshine host and kaiHEN 20261114c or newer. Select H.264 in Settings before streaming; the release notes report an AV1 startup issue.
+repository	https://github.com/davidkalil10/super-moonlight-nx2
+file	13822737	732efef01dae852adfffe2dfee9f027deaa38f2a3167501b1ca53654aef98328	launcher.nro
+github	https://github.com/davidkalil10/super-moonlight-nx2/releases/download/v1.0.0/super-moonlight-nx2.nro
+app	game-vault	nro	0.4.5	Game Vault	flex36ty / Game Vault contributors	Tools	Game and save backup, restore and file transfer utility for Switch 2. Requires the separately installed compatible kaiHEN fsipc-v1 runtime and SD helpers. This download updates only the app; follow the upstream runtime guide. Full backup/restore verification is still pending upstream.
+repository	https://github.com/flex36ty/switch2-gamevault
+file	2289863	d52106c5881a298ad72c2a8e5b62d7a0259204d19d3a8ddcaceedb58c66f2f43	launcher.nro
+github	https://github.com/flex36ty/switch2-gamevault/releases/download/v0.4.5/game-vault-v045.nro
+app	punktfunk	nro	0.1.0	PunktFunk	d0vere / punktfunk contributors	Media	Stream PC games to Switch 2 over your home network. Requires the punktfunk host on your PC, kaiHEN and full application memory. Handheld mode is recommended by the port author; pair with the PIN shown by your host.
+repository	https://github.com/d0vere/punktfunk-client-switch2
+file	41140096	7f8a533dd07cdd7a338cd0b1612982ccb4819d03cee1c7664349a030b2c28457	launcher.nro
+github	https://github.com/d0vere/punktfunk-client-switch2/releases/download/v0.1.0/punktfunk-switch2.nro
+app	kaidump	nro	1.0.5	KaiDump	BlafKing	Tools	Export your installed games, updates, DLC, ExeFS and RomFS to SD, FTP or USB. Requires kaiHEN 20261117b or newer and sufficient storage. Experimental; read the repository requirements before use.
+repository	https://github.com/BlafKing/KaiDump
+file	19828265	7bc870f90065c4ce5786b0ba11a0a5258bd6cd7189fe57ad0d67723740d5cff0	launcher.nro
+github	https://github.com/BlafKing/KaiDump/releases/download/1.0.5/KaiDump.nro
