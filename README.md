@@ -20,6 +20,14 @@ https://raw.githubusercontent.com/dadadush/switch2-homebrew-catalog/main/catalog
 
 IZ2S Cheese downloads `artwork.bin` from the same folder for both catalogs. Press **Y → Refresh** in the catalog to get the latest list and thumbnails.
 
+## Catalog updates
+
+The [Update catalogs workflow](.github/workflows/update-catalogs.yml) checks GitHub Releases every hour and can also run from the **Actions** tab. It uses the project and download filename already recorded for each build. Versioned filenames use the templates in [the update script](scripts/update_catalogs.py).
+
+The workflow publishes the version, download URL, size, and SHA-256 together after checking the files and their package format. If a release is missing the expected build or an IZA companion, the workflow keeps the current entry. It uses published stable releases and skips versions it cannot safely order. Moader stays pinned because its resident module and PC backend need a matching release. Cheese itself stays at 0.8.1 in the legacy feed for compatibility with its older self-updater.
+
+To preview updates locally, run `python3 scripts/update_catalogs.py --dry-run`. Set `GH_TOKEN` to use authenticated GitHub API requests.
+
 ## Files
 
 - `catalog/catalog.tsv` — application details, download links and checksums in IZSTORE2 format.
