@@ -205,3 +205,19 @@ app	chromium-nx	nro	0.2.0	Chromium NX (Switch 2)	shodowlo	Tools	Experimental Chr
 repository	https://github.com/shodowlo/chromium-nx
 file	39704030	68652106987d72abd3423b43fff5e4d5f1499ff167e8197c178559e49f0aeab2	launcher.nro
 github	https://github.com/shodowlo/chromium-nx/releases/download/v0.2.0/chromium-nx2.nro
+app	ouncecord	nro	1-beta	OunceCord	nyathea	Media	Experimental third-party Discord client for Switch 2 under kaiHEN. Supports sign-in with 2FA, messages, reactions and console capture sharing. Requires a Discord account and network access. Upstream warns that third-party clients conflict with Discords terms and may put accounts at risk.
+repository	https://github.com/nyathea/OunceCord
+file	20947058	fd964ad6edcf075a0b5a22338caa181365379089ebe3513cc8d0260afe85ce60	launcher.nro
+github	https://github.com/nyathea/OunceCord/releases/download/v1-beta/OunceCord.nro
+app	ns2-fwftp	nro	1.2.0	NS2 Firmware Dumper FTP	onijuiku-rgb	Tools	A kaiHEN homebrew app (NRO) that serves your Switch 2s installed system firmware (every system program and system data title) over read-only FTP on port 1337, so you can copy it to a PC.
+repository	https://github.com/onijuiku-rgb/NS2-FWFTP
+file	425086	c6f620e00a3859da0203de6a4f59016b5f7258052cee83b80ccdd109f0f2a66d	launcher.nro
+github	https://github.com/onijuiku-rgb/NS2-FWFTP/releases/download/v1.2.0/ns2-fwftp.nro
+app	ouncesx2	nro	1.1	OunceSX2	nyathea	Emulators	OunceSX2 is a free and open-source PlayStation 2 (PS2) emulator based on PCSX2. Its purpose is to emulate the PS2s hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory.
+repository	https://github.com/nyathea/OunceSX2
+file	43124194	5365cdec6953b6ae95b9ff083a97fbb71fb3ba11ad2287b155fe413a726b2f2f	launcher.nro
+github	https://github.com/nyathea/OunceSX2/releases/download/1.1/OunceSX2.nro
+app	switch2iptv	nro	1.0.8	IPTV Player	davidkalil10	Media	IPTV player for Nintendo Switch 2 (kaiHEN/ounce-hbmenu), adapted from the original gomprime/switchiptv project, written in C++ with borealis (native UI with controller navigation) and mpv/FFmpeg for playback.
+repository	https://github.com/davidkalil10/switch2iptv
+file	47106853	70b76e5a8f8c9df425936c5a8d3d6b9ade049863398b5fd2ac2d52810957074b	launcher.nro
+github	https://github.com/davidkalil10/switch2iptv/releases/download/v1.0.8/IptvPlayerSwitch-switch2.nro
