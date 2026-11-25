@@ -56,10 +56,6 @@ app	green-nx	nro	1.0.31pre1-switch2	Green-NX	davidkalil10 / atjike	Media	Cloud g
 repository	https://github.com/davidkalil10/green-nx_switch-2
 file	22575167	11bea13202099c530f1b4e7bc9a58300430e2de4e6b3d213af460639fe51d9c4	launcher.nro
 github	https://github.com/davidkalil10/green-nx_switch-2/releases/download/v1.0.31pre1-switch2/green-nx-switch2.nro
-app	dolphin	nro	1.0.0	Dolphin	MegaCadeDev / Dolphin team	Emulators	Early test port of Dolphin for Switch 2: GameCube and Wii emulation with Vulkan and JIT. Supply your own games. USB drives are not supported; performance and graphics vary by game.
-repository	https://github.com/MegaCadeDev/dolphin-nx2
-file	44676744	e0a502e6e43d67b0c7394d0ee649d7c0a07f8c9c4b55300042f0c8c761224de7	launcher.nro
-github	https://github.com/MegaCadeDev/dolphin-nx2/releases/download/v1.0.0/dolphin.nro
 app	mgba	nro	1.0.0	mGBA	jackspence7 / mGBA team	Emulators	Native mGBA port for Switch 2 homebrew. Play your own GBA games with sound, save states and screen modes. GB/GBC support is present but was not tested by the port author.
 repository	https://github.com/jackspence7/GBA-kaiHEN
 file	18192371	d36444da81498d6cae058745117f659a3cfb3d2fffb609bfbcf05a4a98c820ae	launcher.nro
@@ -241,7 +237,7 @@ app	vita3k-nx	nro	1.4.3	Vita3K-NX2 (NaGaa95 GameShare)	NaGaa95 / Vita3K contribu
 repository	https://github.com/NaGaa95/Vita3K-nx
 file	81120144	e292bf3819a697d339583c8a035208cb1403b2dad5b87687b7aa3427288cbea1	launcher.nro
 github	https://github.com/NaGaa95/Vita3K-nx/releases/download/1.4.3/Vita3K-NX2.nro
-app	dolphin-nx	nro	1.2.3	Dolphin-NX (NaGaa95 GameShare)	NaGaa95 / Dolphin contributors	Emulators	Separate Dolphin port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own Wii games; This is distinct from MegaCadeDevs fork.
+app	dolphin-nx	nro	1.2.3	Dolphin-NX (NaGaa95 GameShare)	NaGaa95 / Dolphin contributors	Emulators	Dolphin is an emulator for running GameCube and Wii games on Windows, Linux, macOS, and recent Android devices. Its licensed under the terms of the GNU General Public License, version 2 or later (GPLv2+).
 repository	https://github.com/NaGaa95/dolphin-nx
 file	92144300	c90089f92356a2ee6d923a1a7721c4999dd9595cd26f2900d671a0dd2453c1f3	launcher.nro
 github	https://github.com/NaGaa95/dolphin-nx/releases/download/1.2.3/dolphin-nx2.nro
