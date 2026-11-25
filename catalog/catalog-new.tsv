@@ -233,10 +233,6 @@ app	switch2homebrew-store	nro	0.5.2	Switch 2 Homebrew Store	coldbreathAI	Tools	N
 repository	https://github.com/coldbreathAI/Switch2Homebrew-Store
 file	46272577	bc33efd71e467b810cda71467e5710331e8f35aa780d7acdfc3cd448b0689a2d	launcher.nro
 github	https://github.com/coldbreathAI/Switch2Homebrew-Store/releases/download/v0.5.2/Switch2Homebrew-Store-v0.5.2.nro
-app	kaivideo	nro	1.17.0	KaiVideo	mizuiroame	Media	An open-source video player for Switch 2 running kaiHEN. It plays the videos on your microSD card, in a shared folder on your network (Windows, a NAS, Samba or WebDAV), or on your own Jellyfin, Emby or Plex server. It shows them as a library of films and series, and decodes them with the consoles own hardware decoder. Its a sibling of KaiPlayer and KaiRadio.
-repository	https://github.com/mizuiroame/kaivideo
-file	28905570	b0e9236a6899eff2d444a2d9432d1ecc3f2dd55958bf8e86a146302defd1d6bf	launcher.nro
-github	https://github.com/mizuiroame/kaivideo/releases/download/v1.17.0/KaiVideo.nro
 app	vita3k-nx	nro	1.4.3	Vita3K-NX2 (NaGaa95 GameShare)	NaGaa95 / Vita3K contributors	Emulators	Separate Vita3K port for Switch 2 under kaiHEN. Includes experimental GameShare for local multiplayer with a second, unmodified Switch. Supply your own PSVita games; This is distinct from davidkalil10s fork.
 repository	https://github.com/NaGaa95/Vita3K-nx
 file	81120144	e292bf3819a697d339583c8a035208cb1403b2dad5b87687b7aa3427288cbea1	launcher.nro
