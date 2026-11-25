@@ -253,3 +253,7 @@ app	local-update-tool	nro	1.0.0	Local Update Tool	AlexTech01	Tools	Homebrew tool
 repository	https://github.com/AlexTech01/local-update-tool
 file	551109	a655b66c2b55af798afb3a4eefd65dd77ed6cd21c8f0340f4d63d543fb86c753	launcher.nro
 github	https://github.com/AlexTech01/local-update-tool/releases/download/1.0.0/local-update-tool.nro
+app	iztwins2	nro	0.11.0	IZtwiNS2	IZMYSH	Media	IZtwiNS2 is a standalone Twitch client for Nintendo Switch 2. Browse live channels and categories, watch streams, videos and clips, and read or send Twitch chat from the console.
+repository	https://github.com/byizmysh/IZtwiNS2
+file	65255242	57f64a054b4e6418d3ae394c65b6879e8cbc8a5166c92a9729c93d4ba8c2e767	launcher.nro
+github	https://github.com/byizmysh/IZtwiNS2/releases/download/v0.11.0/IZtwiNS2-0.11.0.nro
