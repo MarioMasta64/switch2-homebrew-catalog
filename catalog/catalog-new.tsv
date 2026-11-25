@@ -67,10 +67,6 @@ app	bad-apple	nro	bad_apple_ounce	Bad Apple!	souldbminerr	Media	Bad Apple audiov
 repository	https://github.com/souldbminerr/bad-apple-switch
 file	59259489	8f097312ab4ebe073aa70edf6830a085255e8880bfa351befedb01321e6f9c02	launcher.nro
 github	https://github.com/souldbminerr/bad-apple-switch/releases/download/bad_apple_ounce/bad-apple-switch.nro
-app	cemu-nx2	nro	1.4.1	Cemu-NX2	TheAJLive / Cemu team	Emulators	Wii U emulator for Switch 2 under kaiHEN. Requires your own games and about 5.5 GiB of homebrew heap. USB drives and SaltyNX are not supported.
-repository	https://github.com/TheAJLive/Cemu-NX2
-file	89892006	2e3faff528d0928bf48c5bd48743d62c31e58a45dd4d5b8fe080804a2c81643d	launcher.nro
-github	https://github.com/TheAJLive/Cemu-NX2/releases/download/v1.4.1/cemu-switch2.nro
 app	dekopon	nro	0.9.1	Dekopon for Switch 2	Olmectron / Dekopon contributors	Emulators	Nintendo 3DS emulator, using the Switch 2 port by Olmectron. Supply your own games. Shader caches rebuild after updating; asynchronous shader compilation is experimental.
 repository	https://github.com/Olmectron/dekopon
 file	32831532	7828ce82d466ade272260f1351dd7a9f82e64e9e51f409782280e73c413ced9c	launcher.nro
@@ -231,7 +227,7 @@ app	iztwins2	nro	0.11.0	IZtwiNS2	IZMYSH	Media	IZtwiNS2 is a standalone Twitch cl
 repository	https://github.com/byizmysh/IZtwiNS2
 file	65255242	57f64a054b4e6418d3ae394c65b6879e8cbc8a5166c92a9729c93d4ba8c2e767	launcher.nro
 github	https://github.com/byizmysh/IZtwiNS2/releases/download/v0.11.0/IZtwiNS2-0.11.0.nro
-app	cemu-nx	nro	1.3.4	Cemu-NX (GameShare)	NaGaa95	Emulators	This fork runs Cemu on the Nintendo Switch and the Nintendo Switch 2 (kaiHEN).
+app	cemu-nx	nro	1.3.4	Cemu-NX (GameShare)	NaGaa95	Emulators	Wii U emulator for Switch 2 under kaiHEN. Requires your own games and about 5.5 GiB of homebrew heap. USB drives and SaltyNX are not supported.
 repository	https://github.com/NaGaa95/Cemu-nx
 file	152555894	d7bb6842506fab22b5ab7e973b2b7ed3fce4834d05dea9c1684f42541672ed12	launcher.nro
 github	https://github.com/NaGaa95/Cemu-nx/releases/download/1.3.4/cemu-nx2.nro
