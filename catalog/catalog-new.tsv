@@ -189,3 +189,19 @@ app	eden	nro	0.7.0	Eden (Switch 2 PoC)	Olmectron / Eden contributors	Emulators	E
 repository	https://github.com/Olmectron/eden-switch2-poc
 file	42547397	6e690fcf5f6942bf52bbf1d455d344f3c8fd42309dcda9cc11f71bfcc691877c	launcher.nro
 github	https://github.com/Olmectron/eden-switch2-poc/releases/download/v0.7.0/eden.nro
+app	jksv-ns2	nro	1.0.1	JKSV-NS2	Aster145 / J-D-K (JK)	Tools	Save manager port for Switch 2 under kaiHEN. Back up and restore saves; backups are stored in /JKSV/. Close games before restoring. The interface defaults to Simplified Chinese; English and Japanese are available in Settings after restarting.
+repository	https://github.com/Aster145/JKSV-NS2
+file	20665223	9eed4183f372292bf706ef6b3e2ef4ef508d27cc4d38416f6b8e9645af86d727	launcher.nro
+github	https://github.com/Aster145/JKSV-NS2/releases/download/v1.0.1/JKSV-NS2-1.0.1.nro
+app	ouncemtp	nro	1.0.0	OunceMTP	venustrikes	Tools	USB MTP file transfer between a PC and the Switch 2 SD card. Connect a USB data cable and use an MTP-capable file manager on the PC. No network connection is required.
+repository	https://github.com/venustrikes/ouncemtp
+file	485320	7b4ffab4396f6d94f9832f8301ccf3dff5fdf20ae3f8c0ff6e91a04a58acab17	launcher.nro
+github	https://github.com/venustrikes/ouncemtp/releases/download/v1.0.0/ouncemtp.nro
+app	pkforge	nro	0.7.5	PKForge (Switch 2)	sh00kapic / PKForge contributors	Tools	Offline Pokemon save editor for Switch 2. Place exported save copies in /switch/PKForge/saves/ and export edits to /switch/PKForge/exports/. Optional portraits and local Mystery Gift catalogs are configured separately; editing works without them. Keep backups of your original saves.
+repository	https://github.com/sh00kapic/PKForge-Switch2
+file	96650257	f3f57a25975989645c64966abccfbc7a94afe2bdd526b6515cd42432d340d078	launcher.nro
+github	https://github.com/sh00kapic/PKForge-Switch2/releases/download/v0.7.5/PKForge-AIO.nro
+app	chromium-nx	nro	0.2.0	Chromium NX (Switch 2)	shodowlo	Tools	Experimental Chromium browser using the dedicated Switch 2 launcher under kaiHEN. On first start it downloads the separate chromium-full.ext4 image (about 411 MiB), or place that image in /switch/chromium-nx/ manually. Requires enough free SD space and network access for online browsing.
+repository	https://github.com/shodowlo/chromium-nx
+file	39704030	68652106987d72abd3423b43fff5e4d5f1499ff167e8197c178559e49f0aeab2	launcher.nro
+github	https://github.com/shodowlo/chromium-nx/releases/download/v0.2.0/chromium-nx2.nro
