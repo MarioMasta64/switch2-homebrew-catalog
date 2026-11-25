@@ -199,7 +199,7 @@ app	netsurf-switch2	nro	3.12-switch2	NetSurf	davidkalil10	Tools	A port of the Ne
 repository	https://github.com/davidkalil10/netsurf-switch2
 file	43937762	251fd5337a45e86e0af63e89a3633964a78e7b1bb06ecc17560d9f009079b13c	launcher.nro
 github	https://github.com/davidkalil10/netsurf-switch2/releases/download/v3.12-switch2/netsurf-switch2.nro
-app	seedswap	nro	0.15.1-experimental	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Switch 1 games on a Switch 2 by running them in place of Seedsow Lullaby or another installed Switch 1 game. Nintendo can ban your console. Installing games Nintendo didnt sign, and patching the system so they start, is the kind of thing Nintendo bans consoles for. A banned console loses online play, the eShop and system updates. Keep the console offline while you use this, and use it at your own risk. SeedSwap can also brick your console. Its rare, but it can happen.
+app	seedswap	nro	0.15.1-experimental	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Switch 1 games on a Switch 2 by running them in place of Seedsow Lullaby or another installed Switch 1 game.
 repository	https://github.com/Hinoaaaaaf212/SeedSwap
 file	1501278	cb6a1bc90ba54b40a0c50e81ccee9f14706bd4cb5a66fe4a7e06502758f4d5e3	launcher.nro
 github	https://github.com/Hinoaaaaaf212/SeedSwap/releases/download/v0.15.1-experimental/seedswap.nro
