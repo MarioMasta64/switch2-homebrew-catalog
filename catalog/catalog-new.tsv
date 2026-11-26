@@ -239,3 +239,7 @@ app	sshd-switch2	nro	1.0.0	SSHD	shubshub	Tools	An SSH and SFTP server for a Swit
 repository	https://github.com/shubshub/sshd-switch2
 file	788677	68f79a261dfdb3f1c1c0306f1a1b8b2e304596273ad7a9376aee3b55ee984677	launcher.nro
 github	https://github.com/shubshub/sshd-switch2/releases/download/v1.0.0/sshd.nro
+app	buttonbreakswitch2	nro	0.6	Button Break	StrongEnough295	Tools	Button Break is a very simple game made in order to test basic functionality of controllers
+repository	https://github.com/StrongEnough295/ButtonBreakSwitch2
+file	427524	b504786a483b750df84d061ad878a29724bd4329091a7bff877380a025f5508c	launcher.nro
+github	https://github.com/StrongEnough295/ButtonBreakSwitch2/releases/download/v0.6/ButtonBreakSwitch2.nro
