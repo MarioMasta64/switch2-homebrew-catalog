@@ -14,7 +14,7 @@ In IZ2S Cheese, open **Settings → Catalog URL** and paste the address for your
 https://raw.githubusercontent.com/MarioMasta64/switch2-homebrew-catalog/main/catalog/catalog-new.tsv
 ```
 
-IZ2S Cheese downloads `artwork.bin` from the same folder for both catalogs. Press **Y → Refresh** in the catalog to get the latest list and thumbnails.
+IZ2S Cheese downloads `artwork.bin` from the same folder for the catalog. Press **Y → Refresh** in the catalog to get the latest list and thumbnails.
 
 ## Files
 
