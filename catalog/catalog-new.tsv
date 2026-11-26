@@ -23,10 +23,10 @@ app	nxgallery	nro	2.0.0-switch2-1	NXGallery	iUltimateLP / wowilookgood	Media	Vie
 repository	https://github.com/wowilookgood/NXGallery
 file	20421866	86574515d2a5d61cbbb44411503ac888a2725375d9d864c8f0cec0efd3e9e0a2	launcher.nro
 github	https://github.com/wowilookgood/NXGallery/releases/download/2.0.0-switch2-1/NXGallery-hen.nro
-app	akira	nro	1.0.1	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
+app	akira	nro	1.0.2	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
 repository	https://github.com/chiaki-ng/akira-ounce
-file	31995780	54c483c510f338afe86d3d826ca3a202af13713ab1ae47f03a256ecf8a2f5d7f	launcher.nro
-github	https://github.com/chiaki-ng/akira-ounce/releases/download/v1.0.1/akira.nro
+file	32275452	b6f5b6befaae072e20eca2844bcfa73211f920d61a753eafe8b5a8be4604cafe	launcher.nro
+github	https://github.com/chiaki-ng/akira-ounce/releases/download/v1.0.2/akira.nro
 app	ounce-donut	nro	1.0	Ounce Donut	Rix565	Games	A small animated ASCII donut demo for Switch 2.
 repository	https://github.com/Rix565/ouncedonut
 file	24994521	8f8c1cd79a2b21f0d57ae349b971bd35ebee8cf15400da62fe22208e8f07882f	launcher.nro
@@ -151,10 +151,10 @@ app	ppsspp-xitrix	nro	0.1.0	PPSSPP (XITRIX GameShare)	XITRIX / PPSSPP contributo
 repository	https://github.com/XITRIX/ppsspp-nx2
 file	66816508	9351dbb8cc4950c204d8ddf9d962fdaab05e6ed28e2ace754d3a25d79afdaff3	launcher.nro
 github	https://github.com/XITRIX/ppsspp-nx2/releases/download/v0.1.0/PPSSPP-NX2.nro
-app	sw2ps2	nro	1.1.0	SW2PS2	Rodpad / OunceSX2 contributors	Emulators	Early PlayStation 2 emulator for Switch 2 under kaiHEN, based on OunceSX2. Supply your own BIOS in /bios/ps2 and game dumps in /roms/ps2, or configure other folders. Includes per-game settings, save states and experimental Multitap support.
+app	sw2ps2	nro	1.2.0	SW2PS2	Rodpad / OunceSX2 contributors	Emulators	Early PlayStation 2 emulator for Switch 2 under kaiHEN, based on OunceSX2. Supply your own BIOS in /bios/ps2 and game dumps in /roms/ps2, or configure other folders. Includes per-game settings, save states and experimental Multitap support.
 repository	https://github.com/Rodpad/SW2PS2
-file	43681225	789b7d05fe7aaf3435be4cdd4dc01693edc88bf00f29ed8ec315fce147cb4737	launcher.nro
-github	https://github.com/Rodpad/SW2PS2/releases/download/v1.1.0/sw2ps2.nro
+file	43855477	4db53b54d2c61ab71897f492009f1a115aced89851b88b1914de5214a5a6ab6a	launcher.nro
+github	https://github.com/Rodpad/SW2PS2/releases/download/v1.2.0/sw2ps2.nro
 app	toronja	nro	0.9.37	Toronja (Switch 2)	Olmectron / Azahar and Dekopon contributors	Emulators	Nintendo 3DS emulator fork with Switch 2 rendering improvements and experimental GameShare. Uses the dedicated Switch 2 build; provide your own game dumps. On first launch it can rename /switch/dekopon to /switch/toronja and move existing data; back up that folder if keeping both apps.
 repository	https://github.com/Olmectron/toronja
 file	33451020	8bf2a11853dfa1dcad1f5afe7c13f6f7fb375470283aac9339f4117273283b05	launcher.nro
@@ -199,10 +199,10 @@ app	netsurf-switch2	nro	3.12-switch2	NetSurf	davidkalil10	Tools	A port of the Ne
 repository	https://github.com/davidkalil10/netsurf-switch2
 file	43937762	251fd5337a45e86e0af63e89a3633964a78e7b1bb06ecc17560d9f009079b13c	launcher.nro
 github	https://github.com/davidkalil10/netsurf-switch2/releases/download/v3.12-switch2/netsurf-switch2.nro
-app	seedswap	nro	0.15.1-experimental	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Switch 1 games on a Switch 2 by running them in place of Seedsow Lullaby or another installed Switch 1 game.
+app	seedswap	nro	1.0.0	SeedSwap	Hinoaaaaaf212	Tools	SeedSwap lets you play Switch 1 games on a Switch 2 by running them in place of Seedsow Lullaby or another installed Switch 1 game.
 repository	https://github.com/Hinoaaaaaf212/SeedSwap
-file	1501278	cb6a1bc90ba54b40a0c50e81ccee9f14706bd4cb5a66fe4a7e06502758f4d5e3	launcher.nro
-github	https://github.com/Hinoaaaaaf212/SeedSwap/releases/download/v0.15.1-experimental/seedswap.nro
+file	1517662	1cb3141bc9d34c44363a2bf55296438d90033ef955426f727690ab9ee7162af2	launcher.nro
+github	https://github.com/Hinoaaaaaf212/SeedSwap/releases/download/v1.0.0/seedswap.nro
 app	switch2homebrew-store	nro	0.5.2	Switch 2 Homebrew Store	coldbreathAI	Tools	Native homebrew catalog and store for Nintendo Switch 2.
 repository	https://github.com/coldbreathAI/Switch2Homebrew-Store
 file	46272577	bc33efd71e467b810cda71467e5710331e8f35aa780d7acdfc3cd448b0689a2d	launcher.nro
