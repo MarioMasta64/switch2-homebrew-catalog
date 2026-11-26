@@ -231,7 +231,11 @@ app	iztwins2	nro	0.11.0	IZtwiNS2	IZMYSH	Media	IZtwiNS2 is a standalone Twitch cl
 repository	https://github.com/byizmysh/IZtwiNS2
 file	65255242	57f64a054b4e6418d3ae394c65b6879e8cbc8a5166c92a9729c93d4ba8c2e767	launcher.nro
 github	https://github.com/byizmysh/IZtwiNS2/releases/download/v0.11.0/IZtwiNS2-0.11.0.nro
-app	cheeky-nands	nro	0.1	cheeky-nands	aveao	Tools	Switch 2 homebrew to read NAND partitions and dump them to an SD card or over network to a PC.
+app	cheeky-nands	nro	0.1	Cheeky Nands	aveao	Tools	Switch 2 homebrew to read NAND partitions and dump them to an SD card or over network to a PC.
 repository	https://github.com/s8n/cheeky-nands
 file	448709	1773c88cfb1d7ca7b9b1019eb32dd876f3e99aa0577fbee459e5dd2677523bb7	launcher.nro
 github	https://github.com/s8n/cheeky-nands/releases/download/v0.1/cheeky-nands-switch2.nro
+app	sshd-switch2	nro	1.0.0	SSHD	shubshub	Tools	An SSH and SFTP server for a Switch 2 running kaiHEN. It lets you copy files to and from the SD card from your PC, and start homebrew from the command line. Login uses SSH keys only; there are no passwords. It listens on port 2222, because the Switch doesnt let homebrew use ports below 1024.
+repository	https://github.com/shubshub/sshd-switch2
+file	788677	68f79a261dfdb3f1c1c0306f1a1b8b2e304596273ad7a9376aee3b55ee984677	launcher.nro
+github	https://github.com/shubshub/sshd-switch2/releases/download/v1.0.0/sshd.nro
