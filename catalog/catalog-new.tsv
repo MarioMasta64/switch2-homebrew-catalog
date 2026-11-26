@@ -23,10 +23,10 @@ app	nxgallery	nro	2.0.0-switch2-1	NXGallery	iUltimateLP / wowilookgood	Media	Vie
 repository	https://github.com/wowilookgood/NXGallery
 file	20421866	86574515d2a5d61cbbb44411503ac888a2725375d9d864c8f0cec0efd3e9e0a2	launcher.nro
 github	https://github.com/wowilookgood/NXGallery/releases/download/2.0.0-switch2-1/NXGallery-hen.nro
-app	akira	nro	1.0.2	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
+app	akira	nro	1.0.3	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
 repository	https://github.com/chiaki-ng/akira-ounce
-file	32275452	b6f5b6befaae072e20eca2844bcfa73211f920d61a753eafe8b5a8be4604cafe	launcher.nro
-github	https://github.com/chiaki-ng/akira-ounce/releases/download/v1.0.2/akira.nro
+file	23063548	5e146ffb09f92d2035344c19ad589a4d543ddb610a2ef82b77e986d0338269d5	launcher.nro
+github	https://github.com/chiaki-ng/akira-ounce/releases/download/v1.0.3/akira.nro
 app	ounce-donut	nro	1.0	Ounce Donut	Rix565	Games	A small animated ASCII donut demo for Switch 2.
 repository	https://github.com/Rix565/ouncedonut
 file	24994521	8f8c1cd79a2b21f0d57ae349b971bd35ebee8cf15400da62fe22208e8f07882f	launcher.nro
