@@ -247,7 +247,7 @@ app	kaivesper	nro	0.2.1-beta	KaiVesper	Sank-kab	Tools	KaiVesper is a standalone 
 repository	https://github.com/Sank-kab/KaiVesper
 file	624333	132ab2a9ef1b50a1bb4487bbd6609915ef3b471427232e4eb6329b486f2dd982	launcher.nro
 github	https://github.com/Sank-kab/KaiVesper/releases/download/v0.2.1-beta/kaivesper.nro
-app	n-launcher	nro	0.0.16	N Launcher	davidkalil10	Tools	Nintendo Switch 2 homebrew for preparing and launching NUP backups directly on the console, without building a separate NRO for each game on a PC. The same browser accepts single-file NUPs and split .nup folders containing
+app	n-launcher	nro	0.0.21	N Launcher	davidkalil10	Tools	Nintendo Switch 2 homebrew for preparing and launching NUP backups directly on the console, without building a separate NRO for each game on a PC. The same browser accepts single-file NUPs and split .nup folders containing
 repository	https://github.com/davidkalil10/n-launcher
-file	20124871	79edd487674b70a64eb56a9120662ba0b7e593ed8a1768fabef700d2135f1e62	launcher.nro
-github	https://github.com/davidkalil10/n-launcher/releases/download/v0.0.16/n-launcher.nro
+file	20174023	2ce9785d6b693e9e9498ff74ef58d40482e03b24b5e446b2140b10c869841f15	launcher.nro
+github	https://github.com/davidkalil10/n-launcher/releases/download/v0.0.21/n-launcher.nro
