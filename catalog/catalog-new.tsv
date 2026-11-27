@@ -243,3 +243,7 @@ app	buttonbreakswitch2	nro	0.6	Button Break	StrongEnough295	Tools	Button Break i
 repository	https://github.com/StrongEnough295/ButtonBreakSwitch2
 file	427524	b504786a483b750df84d061ad878a29724bd4329091a7bff877380a025f5508c	launcher.nro
 github	https://github.com/StrongEnough295/ButtonBreakSwitch2/releases/download/v0.6/ButtonBreakSwitch2.nro
+app	kaivesper	nro	0.2.1-beta	KaiVesper	Sank-kab	Tools	KaiVesper is a standalone native Switch 2 homebrew application (1280×720 anti-aliased GUI with D-Pad, Analog Stick, and Touchscreen support) that manages unencrypted Switch 2 (SW2) and Switch 1 (SW1) ExeFS + RomFS profiles directly from the console — with zero-reboot Hot-Swapping, an automatic Console Host scanner, built-in on-console romfs.bin packing, and per-profile Same-Account Save Isolation.
+repository	https://github.com/Sank-kab/KaiVesper
+file	624333	132ab2a9ef1b50a1bb4487bbd6609915ef3b471427232e4eb6329b486f2dd982	launcher.nro
+github	https://github.com/Sank-kab/KaiVesper/releases/download/v0.2.1-beta/kaivesper.nro
