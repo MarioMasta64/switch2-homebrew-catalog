@@ -3,10 +3,10 @@ app	iz2s-cheese	nro	0.8.7	IZ2S Cheese	IZMYSH	Tools	Browse and install Switch 2 h
 repository	https://github.com/byizmysh/iz2s-cheese
 file	1279419	09d99bc8b935ec0618874f999d063fafb313f91c3cd8a84676e0eb9a7328aa80	launcher.nro
 github	https://github.com/byizmysh/iz2s-cheese/releases/download/v0.8.7/iz2s-cheese.nro
-app	kaiplayer	nro	1.7.0	KaiPlayer	mizuiroame	Media	Listen to music stored on your SD card with a native audio player made for Switch 2.
+app	kaiplayer	nro	1.8.0	KaiPlayer	mizuiroame	Media	Listen to music stored on your SD card with a native audio player made for Switch 2.
 repository	https://github.com/mizuiroame/kaiplayer
-file	20832049	14ad38bf32dbe2a0df60dc41e8b1590dd752d18795571cc0ebea7a2366ac2db3	launcher.nro
-github	https://github.com/mizuiroame/kaiplayer/releases/download/v1.7.0/KaiPlayer.nro
+file	20901681	9e87e62212377ac8bd2ff713ba58b217140ccb015beeb476648a1cba7e96c88c	launcher.nro
+github	https://github.com/mizuiroame/kaiplayer/releases/download/v1.8.0/KaiPlayer.nro
 app	sw2nes	nro	2.12.2	SW2NES	Rodpad	Emulators	Play your local NES and Famicom games on Switch 2. Includes save states and on-screen playback settings.
 repository	https://github.com/Rodpad/SW2NES
 file	22202374	661f55474fa9d7dc9dc2f0f63902147ffbebf1022f6471b72fa1991137a1f33a	launcher.nro
@@ -179,10 +179,10 @@ app	chromium-nx	nro	0.2.0	Chromium NX (Switch 2)	shodowlo	Tools	Experimental Chr
 repository	https://github.com/shodowlo/chromium-nx
 file	39704030	68652106987d72abd3423b43fff5e4d5f1499ff167e8197c178559e49f0aeab2	launcher.nro
 github	https://github.com/shodowlo/chromium-nx/releases/download/v0.2.0/chromium-nx2.nro
-app	ouncecord	nro	1-beta	OunceCord	nyathea	Media	Experimental third-party Discord client for Switch 2 under kaiHEN. Supports sign-in with 2FA, messages, reactions and console capture sharing. Requires a Discord account and network access. Upstream warns that third-party clients conflict with Discords terms and may put accounts at risk.
+app	ouncecord	nro	0.2-beta	OunceCord	nyathea	Media	Experimental third-party Discord client for Switch 2 under kaiHEN. Supports sign-in with 2FA, messages, reactions and console capture sharing. Requires a Discord account and network access. Upstream warns that third-party clients conflict with Discords terms and may put accounts at risk.
 repository	https://github.com/nyathea/OunceCord
-file	20947058	fd964ad6edcf075a0b5a22338caa181365379089ebe3513cc8d0260afe85ce60	launcher.nro
-github	https://github.com/nyathea/OunceCord/releases/download/v1-beta/OunceCord.nro
+file	29577330	e1250043b893e22549cd069ab9e4c082f62baab9a9d3e93005e30864c0c94043	launcher.nro
+github	https://github.com/nyathea/OunceCord/releases/download/v0.2-beta/OunceCord.nro
 app	ns2-fwftp	nro	1.2.0	NS2 Firmware Dumper FTP	onijuiku-rgb	Tools	A kaiHEN homebrew app (NRO) that serves your Switch 2s installed system firmware (every system program and system data title) over read-only FTP on port 1337, so you can copy it to a PC.
 repository	https://github.com/onijuiku-rgb/NS2-FWFTP
 file	425086	c6f620e00a3859da0203de6a4f59016b5f7258052cee83b80ccdd109f0f2a66d	launcher.nro
@@ -219,10 +219,10 @@ app	dolphin-nx	nro	1.2.3	Dolphin-NX (NaGaa95 GameShare)	NaGaa95 / Dolphin contri
 repository	https://github.com/NaGaa95/dolphin-nx
 file	92144300	c90089f92356a2ee6d923a1a7721c4999dd9595cd26f2900d671a0dd2453c1f3	launcher.nro
 github	https://github.com/NaGaa95/dolphin-nx/releases/download/1.2.3/dolphin-nx2.nro
-app	kaireader	nro	1.2.0	KaiReader	mizuiroame	Media	Book and comic reader for Switch 2 under kaiHEN: your DRM-free EPUB, PDF, CBZ, CBR, FB2, MOBI and TXT from the SD card, a network folder (SMB, WebDAV, FTP, SFTP) or your book server (Calibre-Web, Kavita, Komga), plus public-domain books from Project Gutenberg and Standard Ebooks. Configuration is stored next to the application.
+app	kaireader	nro	1.3.0	KaiReader	mizuiroame	Media	Book and comic reader for Switch 2 under kaiHEN: your DRM-free EPUB, PDF, CBZ, CBR, FB2, MOBI and TXT from the SD card, a network folder (SMB, WebDAV, FTP, SFTP) or your book server (Calibre-Web, Kavita, Komga), plus public-domain books from Project Gutenberg and Standard Ebooks. Configuration is stored next to the application.
 repository	https://github.com/mizuiroame/kaireader
-file	27077346	26142cba340bfd4aca332e5d5b0d80cbdd4673ad3e658e7464c726f2c1d67571	launcher.nro
-github	https://github.com/mizuiroame/kaireader/releases/download/v1.2.0/KaiReader.nro
+file	27298530	5cfe652f4a3e56e41814ffe177411cb98046c92f94953a170a45c68c6dd0987b	launcher.nro
+github	https://github.com/mizuiroame/kaireader/releases/download/v1.3.0/KaiReader.nro
 app	local-update-tool	nro	1.0.0	Local Update Tool	AlexTech01	Tools	Homebrew tool for modded Switch 2s running kaiHEN to allow installing game updates from other consoles through "Match Version With Local Users" that would normally be rejected.
 repository	https://github.com/AlexTech01/local-update-tool
 file	551109	a655b66c2b55af798afb3a4eefd65dd77ed6cd21c8f0340f4d63d543fb86c753	launcher.nro
@@ -239,10 +239,10 @@ app	sshd-switch2	nro	1.0.0	SSHD	shubshub	Tools	An SSH and SFTP server for a Swit
 repository	https://github.com/shubshub/sshd-switch2
 file	788677	68f79a261dfdb3f1c1c0306f1a1b8b2e304596273ad7a9376aee3b55ee984677	launcher.nro
 github	https://github.com/shubshub/sshd-switch2/releases/download/v1.0.0/sshd.nro
-app	buttonbreakswitch2	nro	0.6	Button Break	StrongEnough295	Tools	Button Break is a very simple game made in order to test basic functionality of controllers
+app	buttonbreakswitch2	nro	0.8	Button Break	StrongEnough295	Tools	Button Break is a very simple game made in order to test basic functionality of controllers
 repository	https://github.com/StrongEnough295/ButtonBreakSwitch2
-file	427524	b504786a483b750df84d061ad878a29724bd4329091a7bff877380a025f5508c	launcher.nro
-github	https://github.com/StrongEnough295/ButtonBreakSwitch2/releases/download/v0.6/ButtonBreakSwitch2.nro
+file	521732	1ba157f31e2975a385858ab738a25238b171aab1462dea316086530e73b00ef6	launcher.nro
+github	https://github.com/StrongEnough295/ButtonBreakSwitch2/releases/download/v0.8/ButtonBreakSwitch2.nro
 app	kaivesper	nro	0.2.1-beta	KaiVesper	Sank-kab	Tools	KaiVesper is a standalone native Switch 2 homebrew application (1280×720 anti-aliased GUI with D-Pad, Analog Stick, and Touchscreen support) that manages unencrypted Switch 2 (SW2) and Switch 1 (SW1) ExeFS + RomFS profiles directly from the console — with zero-reboot Hot-Swapping, an automatic Console Host scanner, built-in on-console romfs.bin packing, and per-profile Same-Account Save Isolation.
 repository	https://github.com/Sank-kab/KaiVesper
 file	624333	132ab2a9ef1b50a1bb4487bbd6609915ef3b471427232e4eb6329b486f2dd982	launcher.nro
