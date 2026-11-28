@@ -7,10 +7,10 @@ app	kaiplayer	nro	1.8.0	KaiPlayer	mizuiroame	Media	Listen to music stored on you
 repository	https://github.com/mizuiroame/kaiplayer
 file	20901681	9e87e62212377ac8bd2ff713ba58b217140ccb015beeb476648a1cba7e96c88c	launcher.nro
 github	https://github.com/mizuiroame/kaiplayer/releases/download/v1.8.0/KaiPlayer.nro
-app	sw2nes	nro	2.12.2	SW2NES	Rodpad	Emulators	Play your local NES and Famicom games on Switch 2. Includes save states and on-screen playback settings.
-repository	https://github.com/Rodpad/SW2NES
-file	22202374	661f55474fa9d7dc9dc2f0f63902147ffbebf1022f6471b72fa1991137a1f33a	launcher.nro
-github	https://github.com/Rodpad/SW2NES/releases/download/v2.12.2/sw2nes.nro
+app	sw2ps2	nro	1.5.1	SW2PS2	Rodpad / OunceSX2 contributors	Emulators	Early PlayStation 2 emulator for Switch 2 under kaiHEN, based on OunceSX2. Supply your own BIOS in /bios/ps2 and game dumps in /roms/ps2, or configure other folders. Includes per-game settings, save states and experimental Multitap support.
+repository	https://github.com/Rodpad/SW2PS2
+file	44723561	288aa1894401848029618e73fb56153b6a9b3b87637577b05d0e321809865bec	launcher.nro
+github	https://github.com/Rodpad/SW2PS2/releases/download/v1.5.1/sw2ps2.nro
 app	checkpoint	nro	5.3.0-switch2-1	Checkpoint	FlagBrew / wowilookgood	Tools	Back up and restore game saves from a console interface.
 repository	https://github.com/wowilookgood/Checkpoint
 file	21280085	aa11bf9567b5469bd8a2479e2060c8be1c4beb3f82cb4370233f68e5cab58fc2	launcher.nro
@@ -23,10 +23,10 @@ app	nxgallery	nro	2.0.0-switch2-1	NXGallery	iUltimateLP / wowilookgood	Media	Vie
 repository	https://github.com/wowilookgood/NXGallery
 file	20421866	86574515d2a5d61cbbb44411503ac888a2725375d9d864c8f0cec0efd3e9e0a2	launcher.nro
 github	https://github.com/wowilookgood/NXGallery/releases/download/2.0.0-switch2-1/NXGallery-hen.nro
-app	akira	nro	1.0.3	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
+app	akira	nro	1.0.4	Akira	Chiaki-ng contributors	Media	Stream from your own PlayStation over Remote Play.
 repository	https://github.com/chiaki-ng/akira-ounce
-file	23063548	5e146ffb09f92d2035344c19ad589a4d543ddb610a2ef82b77e986d0338269d5	launcher.nro
-github	https://github.com/chiaki-ng/akira-ounce/releases/download/v1.0.3/akira.nro
+file	23195068	e0df5b221465c8879f78ec2e087a6d9d41a3cfee5edd382d36a982985990c199	launcher.nro
+github	https://github.com/chiaki-ng/akira-ounce/releases/download/v1.0.4/akira.nro
 app	ounce-donut	nro	1.0	Ounce Donut	Rix565	Games	A small animated ASCII donut demo for Switch 2.
 repository	https://github.com/Rix565/ouncedonut
 file	24994521	8f8c1cd79a2b21f0d57ae349b971bd35ebee8cf15400da62fe22208e8f07882f	launcher.nro
@@ -151,10 +151,10 @@ app	ppsspp-xitrix	nro	0.1.0	PPSSPP (XITRIX GameShare)	XITRIX / PPSSPP contributo
 repository	https://github.com/XITRIX/ppsspp-nx2
 file	66816508	9351dbb8cc4950c204d8ddf9d962fdaab05e6ed28e2ace754d3a25d79afdaff3	launcher.nro
 github	https://github.com/XITRIX/ppsspp-nx2/releases/download/v0.1.0/PPSSPP-NX2.nro
-app	sw2ps2	nro	1.2.0	SW2PS2	Rodpad / OunceSX2 contributors	Emulators	Early PlayStation 2 emulator for Switch 2 under kaiHEN, based on OunceSX2. Supply your own BIOS in /bios/ps2 and game dumps in /roms/ps2, or configure other folders. Includes per-game settings, save states and experimental Multitap support.
-repository	https://github.com/Rodpad/SW2PS2
-file	43855477	4db53b54d2c61ab71897f492009f1a115aced89851b88b1914de5214a5a6ab6a	launcher.nro
-github	https://github.com/Rodpad/SW2PS2/releases/download/v1.2.0/sw2ps2.nro
+app	sw2nes	nro	2.12.2	SW2NES	Rodpad	Emulators	Play your local NES and Famicom games on Switch 2. Includes save states and on-screen playback settings.
+repository	https://github.com/Rodpad/SW2NES
+file	22202374	661f55474fa9d7dc9dc2f0f63902147ffbebf1022f6471b72fa1991137a1f33a	launcher.nro
+github	https://github.com/Rodpad/SW2NES/releases/download/v2.12.2/sw2nes.nro
 app	toronja	nro	0.9.37	Toronja (Switch 2)	Olmectron / Azahar and Dekopon contributors	Emulators	Nintendo 3DS emulator fork with Switch 2 rendering improvements and experimental GameShare. Uses the dedicated Switch 2 build; provide your own game dumps. On first launch it can rename /switch/dekopon to /switch/toronja and move existing data; back up that folder if keeping both apps.
 repository	https://github.com/Olmectron/toronja
 file	33451020	8bf2a11853dfa1dcad1f5afe7c13f6f7fb375470283aac9339f4117273283b05	launcher.nro
