@@ -251,3 +251,11 @@ app	n-launcher	nro	0.0.21	N Launcher	davidkalil10	Tools	Nintendo Switch 2 homebr
 repository	https://github.com/davidkalil10/n-launcher
 file	20174023	2ce9785d6b693e9e9498ff74ef58d40482e03b24b5e446b2140b10c869841f15	launcher.nro
 github	https://github.com/davidkalil10/n-launcher/releases/download/v0.0.21/n-launcher.nro
+app	kailocale	nro	0.1.1	KaiLocale	thedavidweng	Tools	KaiLocale is a native system language switcher for Switch 2 consoles running kaiHEN. It provides a single controller-first picker to inspect the current system language, browse supported Horizon OS languages in their native scripts, and apply a change after explicit confirmation. The project is still experimental. KaiLocale works completely offline, installs no background services, and only updates the confirmed system language without modifying region, account, firmware, or save data.
+repository	https://github.com/thedavidweng/kailocale
+file	2938427	5d1c92bed97978d747e80b3f3714b8788e3fbc5333bcbb174d0dd5b2a0f93983	launcher.nro
+github	https://github.com/thedavidweng/kailocale/releases/download/v0.1.1/KaiLocale.nro
+app	wiliwili-plus	nro	1.6.2-ns2	wiliwili-plus	thedavidweng	Media	A unified enhancement branch based on xfangfang/wiliwili (v1.6.0), maintained by thedavidweng, focusing on enhancing the playback experience on modern consoles and desktops
+repository	https://github.com/thedavidweng/wiliwili-plus
+file	41624623	cc6dd0529663e3d924838e14ad235c0ac9c5ce0237e5b613aa0423a7c7bf7685	launcher.nro
+github	https://github.com/thedavidweng/wiliwili-plus/releases/download/v1.6.2-ns2/wiliwili-NS2.nro
